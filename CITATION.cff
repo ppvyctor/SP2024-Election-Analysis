@@ -1,0 +1,9 @@
+
+cff-version: 1.2.0
+title: 🏆 SP2024-Election-Analysis repository
+message: If you really want to cite this repository, here's how you should cite it.
+type: software
+authors:
+  - given-names: Mindful-AI-Assistants
+repository-code:https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis
+license: MIT License
