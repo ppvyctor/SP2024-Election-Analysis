@@ -29,6 +29,8 @@
 
 <br>
 
+This project analyzes voting patterns in the 2024 São Paulo municipal elections, focusing on the first and second rounds for mayor and city council races. It examines voter behavior, changes between the rounds, and regional differences in turnout. The dataset was [***manually compiled from official sources***](), containing over 15,000 entries. The analysis provides insights into electoral trends, assisting strategists in understanding the dynamics of São Paulo's election.
+
 We extend our sincere gratitude to Professor [✨ Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/) for his invaluable guidance and expertise throughout this course. His dedication to excellence in teaching has been instrumental in shaping our understanding of storytelling and data science.
 
 
