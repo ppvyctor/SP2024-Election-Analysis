@@ -27,6 +27,12 @@
 
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
+<br>
+
+We extend our sincere gratitude to Professor [✨ Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/) for his invaluable guidance and expertise throughout this course. His dedication to excellence in teaching has been instrumental in shaping our understanding of storytelling and data science.
+
+
+
  <br><br>  
 
 <!--  START MAIN  -->
