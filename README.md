@@ -19,8 +19,8 @@
 
 <br>
 
-# <p align="center"> SP2024-Election-Analysis 🗳
-### <p align="center">  📊 An analysis of voting patterns in São Paulo's 2024 elections, focusing on voter behavior, absenteeism, and geographic trends.📍
+# <p align="center">  🗳 Data Analysis - São Paulo Elections 2024 - 1st and 2nd Round
+#### <p align="center">  📊 An analysis of voting patterns in São Paulo's 2024 elections, focusing on voter behavior, absenteeism, and geographic trends.📍
  
 
  <br>
