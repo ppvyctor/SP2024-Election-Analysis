@@ -2,7 +2,33 @@
 
 \[**[🇧🇷Português](README.pt_BR.md)**\] \[[🇺🇸English](README.md)\]
 
+  <!--  START HEADER  -->
+  
 <br>
+
+<p align="center">  
+<img src="" />
+  
+ <!--  END HEADER  --> 
+  
+ <br><br>  
+ 
+<!--  START BODY  -->
+
+
+<br>
+
+# <p align="center"> SP2024-Election-Analysis 🗳
+### <p align="center">  📊 An analysis of voting patterns in São Paulo's 2024 elections, focusing on voter behavior, absenteeism, and geographic trends.📍
+ 
+
+ <br>
+
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+
+ <br><br>  
+
+<!--  START MAIN  -->
 
 
 
