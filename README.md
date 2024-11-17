@@ -27,8 +27,7 @@ This project analyzes voting patterns in the 2024 São Paulo municipal elections
 
 <br>
 
-
-This project was developed for the *Integrated Project and Storytelling* course in the second semester of the Data Science and Artificial Intelligence undergraduate program, under the mentorship of the esteemed Professor [✨ Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/). His expertise and dedication to excellence in teaching were crucial in shaping our understanding of data science and storytelling.
+This project was developed for the *Integrated Project and Storytelling* course in the second semester of the undergraduate program in Data Science and Artificial Intelligence at PUC-SP / 2024, under the guidance of the renowned Professor [✨ Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/). His expertise and dedication to teaching were essential in enhancing our understanding of data science and storytelling.
 
 
  <br><br>  
