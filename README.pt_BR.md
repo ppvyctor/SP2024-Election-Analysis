@@ -18,8 +18,9 @@
 
 <br>
 
-# <p align="center"> SP2024-Election-Analysis 🗳
-### <p align="center">  📊 An analysis of voting patterns in São Paulo's 2024 elections, focusing on voter behavior, absenteeism, and geographic trends.📍
+# <p align="center">  🗳 Análise de Dados - Eleições de São Paulo 2024 - 1º e 2º Turno
+
+### <p align="center">  Uma análise dos padrões de votação nas eleições de 2024 em São Paulo, com foco no comportamento do eleitor, absenteísmo e tendências geográficas.📍
  
 
  <br>
