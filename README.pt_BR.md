@@ -59,3 +59,8 @@ For any questions or suggestions, please feel free to reach out:
 #
  
 ##### <p align="center">Copyright 2024 Mindful-AI-Assistants. Code released under the  [MIT license.]( https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1106a/LICENSE)
+
+# <p align="center"> 🗳 Análise da Eleição SP2024 
+### <p align="center"> An analysis of voting patterns in São Paulo's 2024 elections, focusing on voter behavior, absenteeism, and geographic trends.📍
+ 
+
