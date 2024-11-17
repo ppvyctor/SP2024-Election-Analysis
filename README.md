@@ -2,42 +2,38 @@
 
  \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
 
+<br>
 
   <!--  START HEADER  -->
-  
-<br>
-
-<p align="center">  
-<img src="" />
-  
- <!--  END HEADER  --> 
-  
- <br><br>  
- 
-<!--  START BODY  -->
-
-
-<br>
-
 ## <p align="center">  🗳 Data Analysis - São Paulo Elections 2024 - 1st and 2nd Round
 #### <p align="center">  📊 An analysis of voting patterns in São Paulo's 2024 elections, focusing on voter behavior, absenteeism, and geographic trends.📍
  
 
  <br>
 
+ <p align="center">  
+<img src="" />
+  
+
+ <br>
+
+ 
+This project analyzes voting patterns in the 2024 São Paulo municipal elections, focusing on the first and second rounds for mayor and city council races. It explores key aspects such as voter behavior, changes between rounds, and regional variations in voter turnout. **The dataset was [***manually compiled from official sources***]()**, encompassing over 15,000 entries. This comprehensive analysis offers valuable insights into electoral trends, providing strategic guidance for understanding the dynamics of São Paulo's election.
+
+ <br>
+
+
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
 <br>
 
-This project analyzes voting patterns in the 2024 São Paulo municipal elections, focusing on the first and second rounds for mayor and city council races. It examines voter behavior, changes between the rounds, and regional differences in turnout. The dataset was [***manually compiled from official sources***](), containing over 15,000 entries. The analysis provides insights into electoral trends, assisting strategists in understanding the dynamics of São Paulo's election.
 
-We extend our sincere gratitude to Professor [✨ Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/) for his invaluable guidance and expertise throughout this course. His dedication to excellence in teaching has been instrumental in shaping our understanding of storytelling and data science.
-
+This project was developed for the *Integrated Project and Storytelling* course in the second semester of the Data Science and Artificial Intelligence undergraduate program, under the mentorship of the esteemed Professor [✨ Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/). His expertise and dedication to excellence in teaching were crucial in shaping our understanding of data science and storytelling.
 
 
  <br><br>  
 
-<!--  START MAIN  -->
+<!--  START BODY  -->
 
 
 
