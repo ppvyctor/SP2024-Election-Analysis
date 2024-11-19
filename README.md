@@ -79,15 +79,10 @@ This project was developed for the *Integrated Project and Storytelling* course 
 For any questions or suggestions, please feel free to reach out:
 
 - **Fabiana 🚀 Campanari** - [email me](mailto:fabicampanari@proton.me)
-
-<br>  
-
 - **Pedro 🛰️  Vyctor** - [email me](mailto:pedro.vyctor00@gmail.com)
  
 
 ## [Main Contributors]() 
-
-<br>
 
 - [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 - [Pedro 🛰️ Vyctor](https://github.com/ppvyctor)
