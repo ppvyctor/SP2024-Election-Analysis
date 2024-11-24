@@ -34,22 +34,13 @@ His **expertise** and **unwavering dedication** to teaching played a crucial rol
 
 ## Interactive Map Visualization
 
-Click on the image below to access the interactive map:
+### Click on the image to view the interactive map
+
+<div align="center">
+  [![Map Preview](https://github.com/user-attachments/assets/54e83b3b-a875-4d76-bcfd-e562c2c12b3c)](https://mindful-ai-assistants.github.io/SP2024-Election-Analysis/mapa.html)
+</div>
 
 
- <p align="center">  
-<img src="
-
-
-
-[![Map Prevuew](https://github.com/user-attachments/assets/54e83b3b-a875-4d76-bcfd-e562c2c12b3c)(https://mindful-ai-assistants.github.io/SP2024-Election-Analysis/mapa.html)
-
-
-
-It looks like you're trying to create a Markdown formatted image link along with a link to a map file. Here’s the corrected version:
-
-
-[![Map Preview](https://github.com/user-attachments/assets/54e83b3b-a875-4d76-bcfd-e562c2c12b3c)](https://mindful-ai-assistants.github.io/SP2024-Election-Analysis/mapa.html) [View the map on GitHub](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/185d5cabfcf4e9957cc7ee067166ed5d7fdd6c17/Maps/mapa.html)
 
 
 
