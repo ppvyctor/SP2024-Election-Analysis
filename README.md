@@ -65,12 +65,15 @@ His **expertise** and **unwavering dedication** to teaching played a crucial rol
 
 
 
+<!--
+
+###Power BI QR Code
+
+ <p align="center">  
+<img src="https://github.com/user-attachments/assets/dfc4a631-5f88-42ea-8fea-9186beaeffef" />
 
 
-
-
-
-
+-->
 
 
 
