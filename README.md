@@ -40,7 +40,7 @@ His **expertise** and **unwavering dedication** to teaching played a crucial rol
 </p>
 
 <p align="center">
-  <a href="https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/raw/06e3099e7c8c577603fa058977e1ddf6becb77f2/Maps/bairros.json">
+  <a href="https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/1b651c5bfe8633a6324c4d3ed69fc1bac984c3b9/Maps/bairros.json" />
     <img src="https://github.com/user-attachments/assets/54e83b3b-a875-4d76-bcfd-e562c2c12b3c" alt="Map Preview" />
   </a>
 </p>
