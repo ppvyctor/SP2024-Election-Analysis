@@ -40,7 +40,6 @@ Click on the image below to access the interactive map:
  <p align="center">  
 <img src="
 
-![mapa]
 
 
 [![Preview do Mapa](https://github.com/user-attachments/assets/54e83b3b-a875-4d76-bcfd-e562c2c12b3c)(https://mindful-ai-assistants.github.io/SP2024-Election-Analysis/mapa.html)
