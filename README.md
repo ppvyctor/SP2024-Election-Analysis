@@ -36,7 +36,14 @@ His **expertise** and **unwavering dedication** to teaching played a crucial rol
 
 Click on the image below to access the interactive map:
 
-[![Preview do Mapa](mapa-preview.png)](https://mindful-ai-assistants.github.io/SP2024-Election-Analysis/mapa.html)
+
+ <p align="center">  
+<img src="
+
+![mapa]
+
+
+[![Preview do Mapa](https://github.com/user-attachments/assets/54e83b3b-a875-4d76-bcfd-e562c2c12b3c)(https://mindful-ai-assistants.github.io/SP2024-Election-Analysis/mapa.html)
 
 
 
