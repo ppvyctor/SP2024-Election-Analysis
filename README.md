@@ -7,9 +7,14 @@
   <!--  START HEADER  -->
 ## <p align="center">    📊 Data Analysis - São Paulo Elections 2024 - 1st and 2nd Round
 ### <p align="center">  An analysis of voting patterns in São Paulo's 2024 elections, focusing on voter behavior, absenteeism, and geographic trends.
- 
 
- <br><br>
+ <br>
+
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+
+<br>
+
+
 
  <p align="center">  
 <img src="" />
@@ -27,11 +32,6 @@ His **expertise** and **unwavering dedication** to teaching played a crucial rol
 
 
 
- <br>
-
-#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
-
-<br>
 
 
 
