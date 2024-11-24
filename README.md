@@ -34,10 +34,6 @@ His **expertise** and **unwavering dedication** to teaching played a crucial rol
 
 ## Interactive Map Preview
 
-Below is a preview of the interactive map:
-
-![Map Preview](mapa-preview.png)
-
 To access the full map, click the link below:
 
 [🔗 Access the interactive map here](Maps/bairros.json)
