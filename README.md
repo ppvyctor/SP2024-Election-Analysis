@@ -15,11 +15,9 @@
 <br>
 
 
+https://github.com/user-attachments/assets/1b17d66f-3fa0-40dc-bfdc-031ca5b703aa
 
- <p align="center">  
-<img src="" />
-
-   
+  
  <br><br>
 
 This project provides an in-depth analysis of **voting patterns** in the 2024 São Paulo municipal elections, with a focus on the **first and second rounds** of mayoral and city council races. It examines key aspects such as **voter behavior**, **shifts between rounds**, and **regional variations in voter turnout**. 
