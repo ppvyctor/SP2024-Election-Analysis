@@ -24,17 +24,12 @@
 
 This project provides an in-depth analysis of **voting patterns** in the 2024 São Paulo municipal elections, with a focus on the **first and second rounds** of mayoral and city council races. It examines key aspects such as **voter behavior**, **shifts between rounds**, and **regional variations in voter turnout**. 
 
-**The dataset was [***manually compiled from official sources***]()** , includes over **15,000 entries**. To gather relevant data, the project employed **web scraping** techniques, followed by **data cleaning** and **exploratory data analysis (EDA)**. These methods uncover valuable insights into electoral trends and provide **strategic guidance** for understanding the political dynamics of São Paulo, which can inform **future election strategies**.
+**The dataset was [***manually compiled from official sources***]()** , includes over **15,000 entries**. To gather relevant data, the project employed **web scraping** techniques, followed by **data cleaning** and **exploratory data analysis (EDA)**. These methods uncover valuable insights into electoral trends and provide **strategic guidance** for understanding the political dynamics of São Paulo, which can inform **future election strategies**
 
-This work was developed as part of the **Integrated Project and Storytelling** course in the second semester of the undergraduate program in **Data Science and Artificial Intelligence** at **PUC-SP** in 2024, under the mentorship of the **renowned Professor ✨ Rooney Ribeiro Albuquerque Coelho**. 
+
+This work was developed as part of the **Integrated Project and Storytelling** course in the second semester of the undergraduate program in **Data Science and Artificial Intelligence** at **PUC-SP** in 2024, under the mentorship of the renowned  ✨ [Rooney Ribeiro Albuquerque Coelho](). 
 
 His **expertise** and **unwavering dedication** to teaching played a crucial role in deepening our understanding of both **data science** and the **art of storytelling**.
-
-
-
-
-
-
 
 
  <br><br>  
