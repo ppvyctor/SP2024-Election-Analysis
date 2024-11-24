@@ -32,23 +32,12 @@ His **expertise** and **unwavering dedication** to teaching played a crucial rol
 
 <!--  START BODY  -->
 
-```json
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [102.0, 0.5]
-      },
-      "properties": {
-        "prop0": "value0"
-      }
-    }
-  ]
-}
-```
+## Interactive Map Visualization
+
+Click on the image below to access the interactive map:
+
+[![Preview do Mapa](mapa-preview.png)](https://mindful-ai-assistants.github.io/SP2024-Election-Analysis/mapa.html)
+
 
 
 
