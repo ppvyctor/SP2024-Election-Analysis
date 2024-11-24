@@ -38,9 +38,9 @@ His **expertise** and **unwavering dedication** to teaching played a crucial rol
 <img src="https://github.com/user-attachments/assets/54e83b3b-a875-4d76-bcfd-e562c2c12b3c" />
 
 
-### To access the full map, click the link below:
+###  <p align="center"> To access the full map, click the link below:
 
-[🔗 Access the interactive map here](Maps/bairros.json)
+ <p align="center">   [🔗 Access the interactive map here](Maps/bairros.json)
 
 
 
