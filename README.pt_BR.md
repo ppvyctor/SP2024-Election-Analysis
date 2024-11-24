@@ -16,12 +16,8 @@
 
 <br>
 
-
-
- <p align="center">  
-<img src="" />
-
-   
+https://github.com/user-attachments/assets/c34557e8-d1a3-4baa-b995-79b91669b3dd
+  
  <br><br>
 
 Este projeto fornece uma análise aprofundada dos **padrões de votação** nas eleições municipais de São Paulo de 2024, com foco nos **primeiro e segundo turnos** das corridas para prefeito e câmara municipal. Ele examina aspectos-chave como **comportamento do eleitor**, **mudanças entre os turnos** e **variações regionais na participação dos eleitores**.
