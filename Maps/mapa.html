@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mapa Interativo</title>
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>
+    #map {
+      height: 100vh; /* O mapa ocupa toda a altura da página */
+      width: 100%; /* O mapa ocupa toda a largura */
+    }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <!-- D3.js (para manipular arquivos TopoJSON, se necessário) -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://d3js.org/topojson.v3.min.js"></script>
+
+  <script>
+    // Inicializa o mapa
+    const map = L.map('map').setView([-23.55, -46.63], 11); // São Paulo como exemplo
+
+    // Adiciona uma camada base ao mapa (OpenStreetMap)
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+    // Carrega o arquivo JSON (substitua 'bairros.json' pelo caminho correto)
+    fetch('bairros.json')
+      .then(response => response.json())
+      .then(data => {
+        // Converte o TopoJSON em GeoJSON
+        const geojson = topojson.feature(data, data.objects.bairros);
+
+        // Adiciona os dados ao mapa
+        L.geoJSON(geojson, {
+          style: {
+            color: '#ff7800', // Cor das bordas
+            weight: 2,
+            opacity: 0.65
+          },
+          onEachFeature: (feature, layer) => {
+            // Adiciona popup com informações dos bairros
+            layer.bindPopup(`Nome do Bairro: ${feature.properties.nome || 'Não especificado'}`);
+          }
+        }).addTo(map);
+      })
+      .catch(error => {
+        console.error('Erro ao carregar o arquivo JSON:', error);
+      });
+  </script>
+</body>
+</html>
