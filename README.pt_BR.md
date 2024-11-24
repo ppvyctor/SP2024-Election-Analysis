@@ -12,13 +12,14 @@
 
 <br>
 
+https://github.com/user-attachments/assets/c34557e8-d1a3-4baa-b995-79b91669b3dd
+  
+ <br>
+ 
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
 <br>
 
-https://github.com/user-attachments/assets/c34557e8-d1a3-4baa-b995-79b91669b3dd
-  
- <br><br>
 
 Este projeto fornece uma análise aprofundada dos **padrões de votação** nas eleições municipais de São Paulo de 2024, com foco nos **primeiro e segundo turnos** das corridas para prefeito e câmara municipal. Ele examina aspectos-chave como **comportamento do eleitor**, **mudanças entre os turnos** e **variações regionais na participação dos eleitores**.
 
@@ -30,7 +31,7 @@ Este trabalho foi desenvolvido como parte do curso de **Projeto Integrado e Narr
 Sua **expertise** e **dedicação inabalável** ao ensino desempenharam um papel crucial em aprofundar nossa compreensão tanto da **ciência de dados** quanto da **arte de contar histórias**.
 
 
- <br><br>  
+ <br>
 
 <!--  START BODY  -->
 
