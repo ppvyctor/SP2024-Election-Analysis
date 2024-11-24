@@ -32,15 +32,15 @@ His **expertise** and **unwavering dedication** to teaching played a crucial rol
 
 <!--  START BODY  -->
 
-## Interactive Map Visualization
+## Interactive Map Preview
 
-## Visualização do JSON
+Below is a preview of the interactive map:
 
-## Visualização do JSON
+![Map Preview](mapa-preview.png)
 
-Clique na imagem abaixo para acessar diretamente o arquivo JSON:
+To access the full map, click the link below:
 
-[![Map Preview](https://github.com/user-attachments/assets/54e83b3b-a875-4d76-bcfd-e562c2c12b3c)](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/raw/06e3099e7c8c577603fa058977e1ddf6becb77f2/Maps/bairros.json)
+[🔗 Access the interactive map here](https://mindful-ai-assistants.github.io/SP2024-Election-Analysis/mapa.html)
 
 
 
