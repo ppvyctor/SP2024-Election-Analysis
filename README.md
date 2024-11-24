@@ -32,8 +32,7 @@ His **expertise** and **unwavering dedication** to teaching played a crucial rol
 
 <!--  START BODY  -->
 
-## Interactive Map 
-
+## [Interactive Map]() 
 
 <p align="center">
  To access the full map, click the image below:
