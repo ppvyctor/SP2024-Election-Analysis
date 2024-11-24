@@ -40,7 +40,7 @@ Below is a preview of the interactive map:
 
 To access the full map, click the link below:
 
-[🔗 Access the interactive map here](https://mindful-ai-assistants.github.io/SP2024-Election-Analysis/mapa.html)
+[🔗 Access the interactive map here](Maps/bairros.json)
 
 
 
