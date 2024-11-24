@@ -32,6 +32,24 @@ His **expertise** and **unwavering dedication** to teaching played a crucial rol
 
 <!--  START BODY  -->
 
+```json
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.0, 0.5]
+      },
+      "properties": {
+        "prop0": "value0"
+      }
+    }
+  ]
+}
+
+
 
 
 https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/486b93c8dd7b5e2409e21ad47ba6bb3817f54a75/Maps/bairros.geojson
