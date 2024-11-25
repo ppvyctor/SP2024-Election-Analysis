@@ -175,7 +175,12 @@ fig.update_layout(bargap=0.2)
 fig.show()
 ```
 
+<br>
 
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/78431749-1bcc-449a-8876-0991b9a4bace"/>
+
+<br>
 
 
 
