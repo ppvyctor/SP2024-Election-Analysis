@@ -210,14 +210,34 @@ fig.show()
 
 <br>
 
+7.3. Most Voted Councilor Candidates
 
+```python 
+# Filtering councilor candidates
+councilor = election[(election["DS_CARGO_PERGUNTA"] == "Vereador") & 
+                     (election["NM_MUNICIPIO"] == "SÃO PAULO") & 
+                     (election["SG_PARTIDO"] != "#NULO#")].copy()
 
+# Grouping and ordering candidates by votes
+councilor = councilor.groupby(['NM_VOTAVEL', 'SG_PARTIDO']).sum().sort_values('QT_VOTOS', ascending=False)["QT_VOTOS"].reset_index()
 
+# Calculating vote percentages
+total_votes = councilor["QT_VOTOS"].sum()
+councilor["PERCENTAGE"] = councilor["QT_VOTOS"] / total_votes
+
+# Bar chart
+fig = px.bar(councilor, x="NM_VOTAVEL", y="QT_VOTOS", color="SG_PARTIDO", 
+             title="Most Voted Councilor Candidates", 
+             color_discrete_sequence=px.colors.qualitative.Dark24)
+fig.show()
+```
+
+<br>
 
 <p align="center">
  <img src="
 
-
+<br>
 
 
 
