@@ -391,15 +391,13 @@ fig = px.choropleth(df, locations="municipality", color="votes", hover_name="mun
 fig.show()
 ```
 
-### Power BI Dashbord
-
 <br>
 
 <p align="center">
  <img src="https://github.com/user-attachments/assets/4b3796e7-044f-4a3c-b6f6-19ba31239fc6'/>
 
-
 <br>
+
 
 ### Dashboard 2: Candidate Performance by Region
 
@@ -420,6 +418,7 @@ fig.show()
  <img src="https://github.com/user-attachments/assets/e021147e-ca45-4ad2-85bb-fd9f344050ff"/>
 
 <br>
+
 
 ### 8.3 Dashboard 3: Voting Analysis by Party
 
@@ -457,13 +456,40 @@ fig.show()
 
 <br>
 
+### 8.5 Dashboard 5: Voting Comparison Between 2020 and 2024 Elections
+
+The comparison between the two elections revealed significant changes in electoral preferences, with PSOL gaining ground in the peripheries.
+
+```python
+\# Dashboard for voting by age group
+df = pd.read_csv('votes_by_age_group.csv')
+fig = px.pie(df, names="age_group", values="votes", title="Voting by Age Group")
+fig.show()
+```
+
+<br>
+
+<p align="center">
+ <img src="
+
+<br>
 
 
 
 
 
 
-## Power BI 
+
+
+
+
+
+## Power BI Material
+
+### [Power BI File]()
+
+
+### Power BI Link
 
 [Dashboard Access Link](https://app.powerbi.com/view?r=eyJrIjoiNTNmY2Y2YzgtODY3Yy00M2ViLWI0NDItMTdiZDJlNTg4Zjk2IiwidCI6IjhlYjI5MjAxLWEyN2QtNDMwMi04NDczLWM5ODJlYjViZTkzNSJ9)
 
