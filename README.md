@@ -45,6 +45,38 @@ To access the full Map, click the Map below:
 </p>
 
 
+#
+
+## Table of Contents
+
+1-Introduction
+2-Study Objectives
+3-Theoretical Background
+4-Dataset Description
+5-Methodology
+6-Exploratory Data Analysis
+7-Charts and Dashboards
+   7.1. Vote Distribution by Municipality
+   7.2. Most Voted Mayoral Candidates
+   7.3. Most Voted Councilor Candidates
+   7.4. Most Voted Mayors by Electoral Zone
+   7.5. Most Voted Councilors by Electoral Zone
+   7.6. Most Voted Mayors by Municipality
+   7.7. Most Voted Councilors by Municipality
+   7.8. Vote Distribution by Political Party
+8- Interactive Dashboards
+   8.1. Dashboard 1: Overview of Votes by Municipality
+   8.2. Dashboard 2: Mayoral Candidates Analysis
+   8.3. Dashboard 3: Councilor Candidates Overview
+   8.4. Dashboard 4: Voting Trends by Party and Region
+   8.5. Dashboard 5: Geographic Distribution of Votes
+9- Conclusion
+10- Extra Material
+11- References
+12- How to Run the Project
+13-Contributing
+14- Our Team
+
 
 
 
@@ -89,8 +121,9 @@ To access the full Map, click the Map below:
 
 
 
+## Our Team
 
-## 💌 [Contact Us]()
+### 💌 [Contact Us]()
 
 For any questions or suggestions, please feel free to reach out:
 
