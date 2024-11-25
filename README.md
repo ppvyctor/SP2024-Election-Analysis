@@ -45,6 +45,16 @@ To access the full Map, click the Map below:
 </p>
 
 
+
+
+
+<p align="center">
+  <a href="https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/1b651c5bfe8633a6324c4d3ed69fc1bac984c3b9/Maps/bairros.json" />
+    <img src="https://github.com/user-attachments/assets/054abfd4-fdbb-4e67-95f1-4f5f2a483ac5" />
+  </a>
+</p>
+
+
 #
 
 ## Table of Contents
