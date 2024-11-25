@@ -503,20 +503,23 @@ The analysis of charts and dashboards enabled a more detailed understanding of v
 
 ## 10. Extra Material
 
--**Data Analysing Report**: [🔗](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/tree/233c663b48c7683ecdfb905ca1e20ea256dc8972/6-Data%20Analysing%20Report)
+- **Data Analysing Report**: [🔗](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/tree/233c663b48c7683ecdfb905ca1e20ea256dc8972/6-Data%20Analysing%20Report)
 
 - **Power BI Access Link**: [🔗](https://app.powerbi.com/view?r=eyJrIjoiNTNmY2Y2YzgtODY3Yy00M2ViLWI0NDItMTdiZDJlNTg4Zjk2IiwidCI6IjhlYjI5MjAxLWEyN2QtNDMwMi04NDczLWM5ODJlYjViZTkzNSJ9)
 
-  
-- **QR Code**:
-- 
+- **Power BI File**: [🔗](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/8c71e68c34ccfd2c14ff3ecb8d0f7558bcbe109d/Power%20B%20I%20Files/DashBoard.pbix)
+
+<br>
+
+- **QR Code**:  
   Scan the code to access the data and visualizations on Power BI.
 
 <p align="center">
- <img src="https://github.com/user-attachments/assets/dfc4a631-5f88-42ea-8fea-9186beaeffef" />
+  <img src="https://github.com/user-attachments/assets/dfc4a631-5f88-42ea-8fea-9186beaeffef" />
+</p>
 
+<br>
 
-- **Power BI File** [🔗](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/8c71e68c34ccfd2c14ff3ecb8d0f7558bcbe109d/Power%20B%20I%20Files/DashBoard.pbix)
 
 ## 11. References
 
