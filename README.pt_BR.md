@@ -10,7 +10,7 @@
 
 <br>
 
-📺[Assista  no You Tube](https://youtu.be/NvBFw0Z8X0o)
+📺 [Assista em Full HD no You Tube](https://youtu.be/NvBFw0Z8X0o)
 
 https://github.com/user-attachments/assets/c34557e8-d1a3-4baa-b995-79b91669b3dd
 
