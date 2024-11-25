@@ -206,7 +206,7 @@ fig.show()
 <br>
 
 <p align="center">
- <img src="https://github.com/user-attachments/assets/ba197f44-4df3-4575-8a13-af1dcc34980b"/.
+ <img src="https://github.com/user-attachments/assets/ba197f44-4df3-4575-8a13-af1dcc34980b"/>
 
 <br>
 
@@ -235,7 +235,7 @@ fig.show()
 <br>
 
 <p align="center">
- <img src="https://github.com/user-attachments/assets/267db0ac-7a93-4fa3-9dc2-5263f0964da5" >/
+ <img src="https://github.com/user-attachments/assets/267db0ac-7a93-4fa3-9dc2-5263f0964da5" />
 
 <br>
 
@@ -256,11 +256,36 @@ fig = px.bar(merged, x="NEIGHBORHOOD", y="QT_VOTES", color="SG_PARTY", title="Mo
 fig.show()
 ```
 
+<br>
 
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/5413cfb2-bb4f-47be-ad51-db8fb8ebcbd2" />
 
+<br>
 
+### 7.5 Most Voted Councilors by Electoral Zone
 
+```python
+# Analyzing most voted councilors by electoral zone
+areas = pd.DataFrame({
+    "ZONE": [1, 1, 1, 2, 2, 3, 3, 4, 5, 6],
+    "NEIGHBORHOOD": ["BELA VISTA", "CONSOLACAO", "LIBERDADE", "MOOCA", "CAMPO BELO", "ITAQUERA", "CID DUTRA", "PIRITUBA", "VILA PRUDENTE", "TATUAPE"]
+})
 
+# Merging councilor data
+councilor_merged = councilor.merge(areas, left_on="NR_ZONE", right_on="ZONE")
+
+# Bar chart
+fig = px.bar(councilor_merged, x="NEIGHBORHOOD", y="QT_VOTES", color="SG_PARTY", title="Most Voted Councilor by Zone")
+fig.show()
+```
+
+<br>
+
+<p align="center">
+ <img src="
+
+<br>
 
 
 
