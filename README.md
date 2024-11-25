@@ -38,6 +38,7 @@ His **expertise** and **unwavering dedication** to teaching played a crucial rol
 To access the full Map, click the Map below:
 </p>
 
+<br>
 
 <p align="center">
   <a href="https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/1b651c5bfe8633a6324c4d3ed69fc1bac984c3b9/Maps/bairros.json" />
@@ -45,8 +46,16 @@ To access the full Map, click the Map below:
   </a>
 </p>
 
+<br>
 
-#
+## Dataset and Power BI Dashboard
+
+Access the dataset and explore the interactive dashboard via the Power BI link below, where you can use dynamic filters for detailed insights and visualizations.
+
+[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTNmY2Y2YzgtODY3Yy00M2ViLWI0NDItMTdiZDJlNTg4Zjk2IiwidCI6IjhlYjI5MjAxLWEyN2QtNDMwMi04NDczLWM5ODJlYjViZTkzNSJ9)
+
+
+<br>
 
 ## Table of Contents
 
@@ -161,6 +170,8 @@ The exploratory analysis uncovered several interesting trends, such as:
    
 ### 7.1. Vote Distribution by Municipality
 
+The votes distribution revealed a large concentration in São Paulo and neighboring urban areas. The analysis indicated the need for specific strategies for peripheral areas.
+
 ```python
 import plotly.express as px
 import pandas as pd
@@ -184,6 +195,8 @@ fig.show()
 <br>
 
 ### 7.2. Most Voted Mayoral Candidates
+
+Ricardo Nunes (MDB) stood out in central zones, while Guilherme Boulos (PSOL) had strong support in the peripheries.
 
 ```python
 # Filtering mayoral candidates
@@ -212,6 +225,8 @@ fig.show()
 <br>
 
 7.3. Most Voted Councilor Candidates
+
+Vote distribution showed a concentration among local candidates, with highlights for Tabata Amaral (PSB) and Renato Sorriso (PL) in peripheral zones.
 
 ```python 
 # Filtering councilor candidates
@@ -242,6 +257,8 @@ fig.show()
 
 ### 7.4 Most Voted Mayors by Electoral Zone
 
+Central zones favored Ricardo Nunes, while peripheral zones were dominated by Guilherme Boulos.
+
 ```python
 # Data of zones and neighborhoods
 areas = pd.DataFrame({
@@ -265,6 +282,8 @@ fig.show()
 <br>
 
 ### 7.5 Most Voted Councilors by Electoral Zone
+
+The analysis revealed candidates like Márcio Chagas (PSOL) and Luana Almeida (PL) performing well in suburban areas.
 
 ```python
 # Analyzing most voted councilors by electoral zone
@@ -290,6 +309,8 @@ fig.show()
 
 ### 7.6 Most Voted Mayors by Municipality
 
+The municipality-level analysis confirmed Ricardo Nunes' dominance in urban areas and Boulos’ strength in peripheral zones.
+
 ```python
 # Grouping mayors by municipality
 municipality = mayor.groupby("NM_MUNICIPIO").sum().sort_values("QT_VOTES", ascending=False)
@@ -308,6 +329,8 @@ fig.show()
 
 ### 7.7 Most Voted Councilors by Municipality
 
+The analysis showed a strong presence of candidates like Eduardo Suplicy (PT) across several municipalities, reflecting broad political support.
+
 ```python
 # Grouping councilors by municipality
 municipality_councilor = councilor.groupby("NM_MUNICIPIO").sum().sort_values("QT_VOTES", ascending=False)
@@ -325,6 +348,8 @@ fig.show()
 <br>
 
 ### 7.8 Distribution of Votes by Political Party
+
+The vote distribution charts confirmed the dominance of MDB and PSOL, with PSOL's support growing in peripheral zones.
 
 ```python
 # Analyzing distribution of votes by party
@@ -346,16 +371,49 @@ fig.show()
 
 ### 8.1 Geographic Distribution of Votes
 
+This dashboard provided a detailed view of electoral preferences by region, highlighting the polarization between urban and peripheral areas.
+
 ```python
 import plotly.express as px
 
-# Map chart for vote distribution by municipality
+# Gráfico de mapa para distribuição de votos por município
 df = pd.read_csv('distribution_votes.csv')
-fig = px.choropleth(df, locations="municipality", color="votes", hover_name="municipality", title="Geographic Distribution of Votes")
+fig = px.choropleth(df, locations="municipality", color="votes", hover_name="municipality", title="Distribuição Geográfica de Votos")
 fig.show()
 ```
 
+### Power BI Dashbord
+
 <br>
+
+<p align="center">
+ <img src="
+
+<br>
+
+### 8.2 Vote Analysis by Party
+
+This dashboard was essential for understanding candidate performance across regions, using heatmaps and bar charts.
+
+```python
+import plotly.express as px
+
+# Bar chart for vote analysis by party
+df = pd.read_csv('votes_by_party.csv')
+fig = px.bar(df, x="party", y="votes", color="party", title="Vote Analysis by Party")
+fig.show()
+```
+
+
+### Power BI Dashbord
+
+<br>
+
+<p align="center">
+ <img src="
+
+<br>
+
 
 <p align="center">
  <img src="
