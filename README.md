@@ -156,6 +156,24 @@ The exploratory analysis uncovered several interesting trends, such as:
 - A geographic vote distribution showing high concentration in central São Paulo and greater support for progressive parties in peripheral areas.
 
 
+## 7. Charts and Dashboards
+   
+### 7.1. Vote Distribution by Municipality
+
+```python
+import plotly.express as px
+import pandas as pd
+
+# Reading the dataset
+election = pd.read_csv('/path/to/your/data.csv', encoding='latin-1')
+
+# Plotting vote distribution by municipality
+fig = px.histogram(election, x="NM_MUNICIPIO", y="QT_VOTOS", 
+                   title="Votes by Municipality", 
+                   color_discrete_sequence=["#1f77b4"])
+fig.update_layout(bargap=0.2)
+fig.show()
+```
 
 
 
