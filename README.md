@@ -49,47 +49,33 @@ To access the full Map, click the Map below:
 
 ## Table of Contents
 
-1-Introduction
-2-Study Objectives
-3-Theoretical Background
-4-Dataset Description
-5-Methodology
-6-Exploratory Data Analysis
-7-Charts and Dashboards
-   7.1. Vote Distribution by Municipality
-   7.2. Most Voted Mayoral Candidates
-   7.3. Most Voted Councilor Candidates
-   7.4. Most Voted Mayors by Electoral Zone
-   7.5. Most Voted Councilors by Electoral Zone
-   7.6. Most Voted Mayors by Municipality
-   7.7. Most Voted Councilors by Municipality
-   7.8. Vote Distribution by Political Party
-8- Interactive Dashboards
-   8.1. Dashboard 1: Overview of Votes by Municipality
-   8.2. Dashboard 2: Mayoral Candidates Analysis
-   8.3. Dashboard 3: Councilor Candidates Overview
-   8.4. Dashboard 4: Voting Trends by Party and Region
-   8.5. Dashboard 5: Geographic Distribution of Votes
-9- Conclusion
-10- Extra Material
-11- References
-12- How to Run the Project
-13-Contributing
-14- Our Team
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [Introduction](#introduction)
+- [Study Objectives](#study-objectives)
+- [Theoretical Background](#theoretical-background)
+- [Dataset Description](#dataset-description)
+- [Methodology](#methodology)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Charts and Dashboards](#charts-and-dashboards)
+  - [7.1. Vote Distribution by Municipality](#71-vote-distribution-by-municipality)
+  - [7.2. Most Voted Mayoral Candidates](#72-most-voted-mayoral-candidates)
+  - [7.3. Most Voted Councilor Candidates](#73-most-voted-councilor-candidates)
+  - [7.4. Most Voted Mayors by Electoral Zone](#74-most-voted-mayors-by-electoral-zone)
+  - [7.5. Most Voted Councilors by Electoral Zone](#75-most-voted-councilors-by-electoral-zone)
+  - [7.6. Most Voted Mayors by Municipality](#76-most-voted-mayors-by-municipality)
+  - [7.7. Most Voted Councilors by Municipality](#77-most-voted-councilors-by-municipality)
+  - [7.8. Vote Distribution by Political Party](#78-vote-distribution-by-political-party)
+- [Interactive Dashboards](#interactive-dashboards)
+  - [8.1. Dashboard 1: Overview of Votes by Municipality](#81-dashboard-1-overview-of-votes-by-municipality)
+  - [8.2. Dashboard 2: Mayoral Candidates Analysis](#82-dashboard-2-mayoral-candidates-analysis)
+  - [8.3. Dashboard 3: Councilor Candidates Overview](#83-dashboard-3-councilor-candidates-overview)
+  - [8.4. Dashboard 4: Voting Trends by Party and Region](#84-dashboard-4-voting-trends-by-party-and-region)
+  - [8.5. Dashboard 5: Geographic Distribution of Votes](#85-dashboard-5-geographic-distribution-of-votes)
+- [Conclusion](#conclusion)
+- [Extra Material](#extra-material)
+- [References](#references)
+- [How to Run the Project](#how-to-run-the-project)
+- [Contributing](#contributing)
+- [Our Team](#our-team)
 
 
 
