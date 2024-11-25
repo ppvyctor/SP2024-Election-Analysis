@@ -184,7 +184,7 @@ fig.show()
 
 ### 7.2. Most Voted Mayoral Candidates
 
-```pytho
+```python
 # Filtering mayoral candidates
 mayor = election[(election["DS_CARGO_PERGUNTA"] == "Prefeito") & 
                  (election["NM_MUNICIPIO"] == "SÃO PAULO") & 
