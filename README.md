@@ -498,16 +498,17 @@ The analysis of charts and dashboards enabled a more detailed understanding of v
 
 ## 10. Extra Material
 
--**Data Analysing Report: [🔗]()
+-**Data Analysing Report**: [🔗](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/tree/233c663b48c7683ecdfb905ca1e20ea256dc8972/6-Data%20Analysing%20Report)
 
 - **Power BI Access Link**: [🔗](https://app.powerbi.com/view?r=eyJrIjoiNTNmY2Y2YzgtODY3Yy00M2ViLWI0NDItMTdiZDJlNTg4Zjk2IiwidCI6IjhlYjI5MjAxLWEyN2QtNDMwMi04NDczLWM5ODJlYjViZTkzNSJ9)
 
   
-- **QR Code**:  
+- **QR Code**:
+- 
   Scan the code to access the data and visualizations on Power BI.
 
-   <p align="center">  
-<img src="https://github.com/user-attachments/assets/dfc4a631-5f88-42ea-8fea-9186beaeffef" />
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/dfc4a631-5f88-42ea-8fea-9186beaeffef" />
 
 
 - **Power BI File** [🔗](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/8c71e68c34ccfd2c14ff3ecb8d0f7558bcbe109d/Power%20B%20I%20Files/DashBoard.pbix)
@@ -523,6 +524,8 @@ The analysis of charts and dashboards enabled a more detailed understanding of v
 
 This project was developed in Python and uses libraries like Pandas, Plotly, and Dash for data analysis and visualization. Follow the instructions below to set up the environment and run the code.
 
+<br>
+
 ### 12.1 Requirements
 
 Before running the project, you need to have Python and Git installed on your system.
@@ -537,14 +540,19 @@ pandas
 plotly
 ```
 
+<br>
+
 ### 12.2 Cloning the Repository
 
 To get started, clone the repository to your computer:
 
-```dash
+```bash
 git clone https://github.com/your_user/elections-sp-project.git  
 cd elections-sp-project
 ```
+
+<br>
+
 ### 12.3 Installing Dependencies
 
 Install the required dependencies by running the following command:
@@ -553,7 +561,7 @@ Install the required dependencies by running the following command:
 pip install -r requirements.txt
 ```
 
-12.4 Creating the Executable
+### 12.4 Creating the Executable
 
 To create an executable of the project, you can use PyInstaller. Run the following command to generate the executable:
 
@@ -561,9 +569,11 @@ To create an executable of the project, you can use PyInstaller. Run the followi
 pyinstaller --onefile electoral_analysis.py
 ```
 
+<br>
+
 This will create an executable file in the dist/ folder, which can be run directly without needing to install Python.
 
-12.5 Running the Code
+### 12.5 Running the Code
 
 After installing the dependencies or creating the executable, run the main script to generate the analyses and visualizations:
 
@@ -571,9 +581,11 @@ After installing the dependencies or creating the executable, run the main scrip
 python electoral_analysis.py
 ```
 
-12.6 Running the Interactive Dashboard
+<br>
 
-If you wish to view the interactive dashboards using Dash, run the following command:
+### 12.6 Running the Interactive Dashboard
+
+If you wish to view the interactive dashboards using Bash, run the following command:
 
 ```python
 python app.py
@@ -581,6 +593,28 @@ python app.py
 
 This will open the dashboard in your browser.
 
+
+
+## 13. Contributing
+
+If you'd like to contribute to this project, feel free to fork it, make changes, and submit pull requests. Here are the steps to get started:
+
+1. **Fork** this repository.
+2. **Create a branch** for your feature:
+   ```bash
+   git checkout -b new-feature
+   ```
+3. **Make the necessary changes** and commit:
+   ```bash
+   git commit -am 'Adds new feature'
+   ```
+4. **Push** the branch to the remote repository:
+   ```bash
+   git push origin new-feature
+   ```
+5. **Open a pull request** for review and integration.
+
+Make sure your changes do not break existing functionality and that the tests are up to date.
 
 
 
@@ -593,8 +627,7 @@ For any questions or suggestions, please feel free to reach out:
 - **Fabiana 🚀 Campanari** - [email me](mailto:fabicampanari@proton.me)
 - **Pedro 🛰️  Vyctor** - [email me](mailto:pedro.vyctor00@gmail.com)
  
-
-## 13- Main Contributors
+### Main Contributors
 
 - [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 - [Pedro 🛰️ Vyctor](https://github.com/ppvyctor)
