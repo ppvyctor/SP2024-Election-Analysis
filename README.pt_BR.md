@@ -34,11 +34,10 @@ Sua **experiência** e **dedicação inabalável** ao ensino desempenharam um pa
 
 <br>
 
-### [Desenvolvido por](): 
+### ### Developed by:
 
-Fabiana 🚀 Campanari 
-
-Pedro Vyctor 🛰️ Almeira
+- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+- [Pedro 🛰️ Vyctor](https://github.com/ppvyctor)
 
  <br><br>  
 
@@ -163,9 +162,6 @@ Aqui está uma visão geral das principais colunas nos arquivos CSV processados:
 - **`QT_VOTOS`**: Número de votos recebidos
 
 
-Aqui está a tradução para o português do texto solicitado:
-
----
 
 ### Estrutura de Colunas Exemplares
 
@@ -459,11 +455,6 @@ fig.show()
 <br>
 
 
-
-Claro! A tradução solicitada é:
-
----
-
 ### 8.4 Dashboard 4: Voting by Demographic Profile
 
 Este dashboard analisou os votos por idade, gênero e classe social, destacando as preferências dos eleitores mais jovens e das classes sociais mais baixas pelos candidatos progressistas.
@@ -614,11 +605,9 @@ Aqui está a tradução para o português do trecho solicitado:
 
 
 
-
-
 ## 13. Contribuindo
 
-Se você gostaria de contribuir para este projeto, fique à vontade para fazer um *fork*, realizar alterações e enviar *pull requests*. Aqui estão os passos para começar:
+Se você quiser contribuir para este projeto, fique à vontade para fazer um *fork*, realizar alterações e enviar *pull requests*. Aqui estão os passos para começar:
 
 1. **Faça o fork** deste repositório.
 2. **Crie um branch** para sua funcionalidade:
@@ -648,10 +637,7 @@ Para quaisquer dúvidas ou sugestões, fique à vontade para entrar em contato:
 - **Fabiana 🚀 Campanari** - [email me](mailto:fabicampanari@proton.me)
 - **Pedro 🛰️  Vyctor** - [email me](mailto:pedro.vyctor00@gmail.com)
 
-### Contribuidores Principais
 
-- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
-- [Pedro 🛰️ Vyctor](https://github.com/ppvyctor)
 
 <br><br>
 
