@@ -121,23 +121,6 @@ Analisar dados eleitorais é crucial para entender o comportamento do eleitor, a
 
 Os dados usados neste estudo foram extraídos de fontes públicas, fornecendo informações sobre votos por município, zona eleitoral e partido político. O conjunto de dados inclui detalhes sobre os candidatos a prefeito e vereador em São Paulo, incluindo o número de votos recebidos por cada candidato.
 
-### Os seguintes arquivos CSV foram processados:
-
-address_Mayor.csv
-Mayor_by_city.csv
-Mayor_by_city_round_2.csv
-Mayor.csv
-address_Councilor.csv
-Councilor_by_city.csv
-councilor.csv
-Estrutura da coluna de exemplo:
-NM_MUNICIPIO: Nome do município
-NR_ZONA: Número da zona eleitoral
-DS_CARGO_PERGUNTA: Cargo eleitoral (Prefeito ou Vereador)
-NM_VOTAVEL: Nome do candidato
-SG_PARTIDO: Sigla do partido
-QT_VOTOS: Número de votos recebidos
-
 ### Arquivos Processados
 
 Os seguintes arquivos CSV foram processados:
