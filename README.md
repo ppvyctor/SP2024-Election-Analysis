@@ -182,15 +182,40 @@ fig.show()
 
 <br>
 
+### 7.2. Most Voted Mayoral Candidates
+
+```pytho
+# Filtering mayoral candidates
+mayor = election[(election["DS_CARGO_PERGUNTA"] == "Prefeito") & 
+                 (election["NM_MUNICIPIO"] == "SÃO PAULO") & 
+                 (election["SG_PARTIDO"] != "#NULO#")].copy()
+
+# Grouping and ordering candidates by votes
+mayor = mayor.groupby(['NM_VOTAVEL', 'SG_PARTIDO']).sum().sort_values("QT_VOTOS", ascending=False)["QT_VOTOS"].reset_index()
+
+# Calculating vote percentages
+total_votes = mayor["QT_VOTOS"].sum()
+mayor["PERCENTAGE"] = mayor["QT_VOTOS"] / total_votes
+
+# Bar chart
+fig = px.bar(mayor, x="NM_VOTAVEL", y="QT_VOTOS", color="SG_PARTIDO", 
+             title="Most Voted Mayoral Candidates", 
+             color_discrete_sequence=px.colors.qualitative.Dark24)
+fig.show()
+```
+<br>
+
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/ba197f44-4df3-4575-8a13-af1dcc34980b"/.
+
+<br>
 
 
 
 
 
-
-
-
-
+<p align="center">
+ <img src="
 
 <!--
 
