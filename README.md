@@ -632,6 +632,8 @@ For any questions or suggestions, please feel free to reach out:
 
 - **Fabiana 🚀 Campanari** - [email me](mailto:fabicampanari@proton.me)
 - **Pedro 🛰️  Vyctor** - [email me](mailto:pedro.vyctor00@gmail.com)
+
+<br>
  
 ### Main Contributors
 
