@@ -12,8 +12,6 @@
 
 📺 [Whatch on You Tube](https://youtu.be/x3A6pHZuOD4)
 
-📈 [Power BI Link Acess](https://app.powerbi.com/view?r=eyJrIjoiNTNmY2Y2YzgtODY3Yy00M2ViLWI0NDItMTdiZDJlNTg4Zjk2IiwidCI6IjhlYjI5MjAxLWEyN2QtNDMwMi04NDczLWM5ODJlYjViZTkzNSJ9)
-
 <br>
 
 https://github.com/user-attachments/assets/1b17d66f-3fa0-40dc-bfdc-031ca5b703aa
@@ -64,11 +62,11 @@ To access the full Map, click the Map below:
 
 <br>
 
-## Dataset and Power BI Dashboard
+## Power BI Dashboard
 
 Access the dataset and explore the interactive dashboard via the Power BI link below, where you can use dynamic filters for detailed insights and visualizations.
 
-[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTNmY2Y2YzgtODY3Yy00M2ViLWI0NDItMTdiZDJlNTg4Zjk2IiwidCI6IjhlYjI5MjAxLWEyN2QtNDMwMi04NDczLWM5ODJlYjViZTkzNSJ9)
+📈 [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTNmY2Y2YzgtODY3Yy00M2ViLWI0NDItMTdiZDJlNTg4Zjk2IiwidCI6IjhlYjI5MjAxLWEyN2QtNDMwMi04NDczLWM5ODJlYjViZTkzNSJ9)
 
 
 <br>
