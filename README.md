@@ -124,24 +124,8 @@ Analyzing electoral data is crucial for understanding voter behavior, party pref
    
 The data used in this study were extracted from public sources, providing information on votes by municipality, electoral zone, and political party. The dataset includes details about mayoral and councilor candidates in São Paulo, including the number of votes received by each candidate.
 
-### The following CSV files were processed:
 
-address_Mayor.csv
-Mayor_by_city.csv
-Mayor_by_city_round_2.csv
-Mayor.csv
-address_Councilor.csv
-Councilor_by_city.csv
-councilor.csv
-Sample column structure:
-NM_MUNICIPIO: Municipality name
-NR_ZONA: Electoral zone number
-DS_CARGO_PERGUNTA: Election role (Mayor or Councilor)
-NM_VOTAVEL: Candidate name
-SG_PARTIDO: Party acronym
-QT_VOTOS: Number of votes received
-
-### Processed Files
+## Processed Files
 
 The following CSV files were processed:
 
