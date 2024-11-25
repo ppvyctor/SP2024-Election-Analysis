@@ -78,6 +78,26 @@ To access the full Map, click the Map below:
 - [Our Team](#our-team)
 
 
+ ## 1. Introduction
+     
+This report presents a detailed analysis of the data from São Paulo's 2024 municipal elections, focusing on vote distribution, voter behavior, and the performance of mayoral and councilor candidates. Various visualizations and dashboards are used to explore voting patterns, emerging trends, and the factors influencing electoral outcomes.
+
+
+## 2. Study Objectives
+
+The study aims to understand electoral dynamics in São Paulo's urban and peripheral areas, identifying factors determining voter preferences, such as the most-voted parties, candidate profiles, and voting behavior.
+
+
+## 3. Theoretical Background
+Analyzing electoral data is crucial for understanding voter behavior, party preferences, and political trends across different regions. Data visualization offers a clear and efficient way to identify patterns that can inform future campaigns.
+
+
+## 4. Dataset Description
+   
+The data used in this study were extracted from public sources, providing information on votes by municipality, electoral zone, and political party. The dataset includes details about mayoral and councilor candidates in São Paulo, including the number of votes received by each candidate.
+
+
+
 
 
 
