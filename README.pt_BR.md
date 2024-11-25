@@ -610,4 +610,54 @@ python app.py
 
 Isso abrirá o dashboard no seu navegador.
 
+Aqui está a tradução para o português do trecho solicitado:
+
+
+
+
+
+## 13. Contribuindo
+
+Se você gostaria de contribuir para este projeto, fique à vontade para fazer um *fork*, realizar alterações e enviar *pull requests*. Aqui estão os passos para começar:
+
+1. **Faça o fork** deste repositório.
+2. **Crie um branch** para sua funcionalidade:
+   ```bash
+   git checkout -b nova-funcionalidade
+   ```
+3. **Faça as alterações necessárias** e commit:
+   ```bash
+   git commit -am 'Adiciona nova funcionalidade'
+   ```
+4. **Faça o push** do branch para o repositório remoto:
+   ```bash
+   git push origin nova-funcionalidade
+   ```
+5. **Abra um pull request** para revisão e integração.
+
+Certifique-se de que suas alterações não quebrem a funcionalidade existente e que os testes estejam atualizados.
+
+
+
+## 14. Nossa Equipe
+
+### 💌 [Entre em Contato]()
+
+Para quaisquer dúvidas ou sugestões, fique à vontade para entrar em contato:
+
+- **Fabiana 🚀 Campanari** - [email me](mailto:fabicampanari@proton.me)
+- **Pedro 🛰️  Vyctor** - [email me](mailto:pedro.vyctor00@gmail.com)
+
+### Contribuidores Principais
+
+- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+- [Pedro 🛰️ Vyctor](https://github.com/ppvyctor)
+
+<br><br>
+
+<p align="center"> <a href="#Top">Voltar ao topo</a>
+
+#
+
+##### <p align="center">Copyright 2024 Mindful-AI-Assistants. Código liberado sob a [Licença MIT.](https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1106a/LICENSE)
 
