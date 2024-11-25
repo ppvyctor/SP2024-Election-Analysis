@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mapa dos Bairros</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <style>
+        #map {
+            width: 100%;
+            height: 600px;
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script>
+        // Inicializa o mapa centralizado em São Paulo
+        var map = L.map('map').setView([-23.5505, -46.6333], 11); 
+
+        // Adiciona a camada de mapa do OpenStreetMap
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+        // Busca os dados GeoJSON do arquivo no GitHub
+        fetch('https://raw.githubusercontent.com/Mindful-AI-Assistants/SP2024-Election-Analysis/main/Maps/bairros.json')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok ' + response.statusText);
+                }
+                return response.json();
+            })
+            .then(data => {
+                // Adiciona os dados GeoJSON ao mapa
+                L.geoJSON(data).addTo(map);
+            })
+            .catch(error => {
+                console.error('Erro ao carregar o arquivo GeoJSON:', error);
+            });
+    </script>
+</body>
+</html>
