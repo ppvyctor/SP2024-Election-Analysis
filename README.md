@@ -235,11 +235,26 @@ fig.show()
 <br>
 
 <p align="center">
- <img src="
+ <img src="https://github.com/user-attachments/assets/267db0ac-7a93-4fa3-9dc2-5263f0964da5" >/
 
 <br>
 
+### 7.4 Most Voted Mayors by Electoral Zone
 
+```python
+# Data of zones and neighborhoods
+areas = pd.DataFrame({
+    "ZONE": [1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 3, 4, 4, 4, 5, 5, 6, 246, 246, 247, 247, 248, 248, 249, 250, 250, 250, 251, 251, 252],
+    "NEIGHBORHOOD": ["BELA VISTA", "CONSOLACAO", "LIBERDADE", "REPUBLICA", "SE", "BARRA FUNDA", "PERDIZES", "SANTA CECILIA", "BOM RETIRO", "BRAS", "PARI", "AGUA RASA", "BELEM", "MOOCA", "JD PAULISTA"]
+})
+
+# Merging with mayor data
+merged = mayor.merge(areas, left_on="NR_ZONE", right_on="ZONE")
+
+# Bar chart
+fig = px.bar(merged, x="NEIGHBORHOOD", y="QT_VOTES", color="SG_PARTY", title="Most Voted Mayor by Zone")
+fig.show()
+```
 
 
 
