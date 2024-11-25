@@ -503,11 +503,11 @@ The analysis of charts and dashboards enabled a more detailed understanding of v
 
 ## 10. Extra Material
 
-- **Data Analysing Report**: [🔗](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/tree/233c663b48c7683ecdfb905ca1e20ea256dc8972/6-Data%20Analysing%20Report)
+- **Data Analysing Report**: [Click 🔗](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/tree/233c663b48c7683ecdfb905ca1e20ea256dc8972/6-Data%20Analysing%20Report)
 
-- **Power BI Access Link**: [🔗](https://app.powerbi.com/view?r=eyJrIjoiNTNmY2Y2YzgtODY3Yy00M2ViLWI0NDItMTdiZDJlNTg4Zjk2IiwidCI6IjhlYjI5MjAxLWEyN2QtNDMwMi04NDczLWM5ODJlYjViZTkzNSJ9)
+- **Power BI Access Link**: [Click 🔗](https://app.powerbi.com/view?r=eyJrIjoiNTNmY2Y2YzgtODY3Yy00M2ViLWI0NDItMTdiZDJlNTg4Zjk2IiwidCI6IjhlYjI5MjAxLWEyN2QtNDMwMi04NDczLWM5ODJlYjViZTkzNSJ9)
 
-- **Power BI File**: [🔗](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/8c71e68c34ccfd2c14ff3ecb8d0f7558bcbe109d/Power%20B%20I%20Files/DashBoard.pbix)
+- **Power BI File**: [Click 🔗](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/8c71e68c34ccfd2c14ff3ecb8d0f7558bcbe109d/Power%20B%20I%20Files/DashBoard.pbix)
 
 <br>
 
