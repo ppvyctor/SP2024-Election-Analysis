@@ -376,9 +376,9 @@ fig.show()
 
 <br>
 
-## 8. Interactive Dashboards
+## 8. Interactive Power BI Dashboards: [Click to access the link](https://app.powerbi.com/view?r=eyJrIjoiNTNmY2Y2YzgtODY3Yy00M2ViLWI0NDItMTdiZDJlNTg4Zjk2IiwidCI6IjhlYjI5MjAxLWEyN2QtNDMwMi04NDczLWM5ODJlYjViZTkzNSJ9)
 
-### 8.1 Geographic Distribution of Votes
+### 8.1 Dashboard 1: Geographic Distribution of Votes
 
 This dashboard provided a detailed view of electoral preferences by region, highlighting the polarization between urban and peripheral areas.
 
@@ -401,7 +401,7 @@ fig.show()
 
 <br>
 
-### 8.2 Vote Analysis by Party
+### Dashboard 2: Candidate Performance by Region
 
 This dashboard was essential for understanding candidate performance across regions, using heatmaps and bar charts.
 
@@ -414,8 +414,23 @@ fig = px.bar(df, x="party", y="votes", color="party", title="Vote Analysis by Pa
 fig.show()
 ```
 
+<br>
 
-### Power BI Dashbord
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/e021147e-ca45-4ad2-85bb-fd9f344050ff"/>
+
+<br>
+
+### 8.3 Dashboard 3: Voting Analysis by Party
+
+The visualization allowed for identifying votes distribution by party and electoral preferences by zone.
+
+```python
+# Dashboard for candidate performance
+df = pd.read_csv('candidates_performance.csv')
+fig = px.scatter(df, x="zone", y="votes", color="party", title="Candidate Performance by Electoral Zone")
+fig.show()
+```
 
 <br>
 
@@ -424,14 +439,23 @@ fig.show()
 
 <br>
 
+### 8.4 Dashboard 4: Voting by Demographic Profile
+
+This dashboard analyzed voting by age, gender, and social class, highlighting preferences of younger voters and lower social classes for progressive candidates.
+
+```python
+# Dashboard for comparison between candidates
+df = pd.read_csv('candidates_comparison.csv')
+fig = px.scatter(df, x="votes_mayor", y="votes_councilor", color="party", title="Comparison of Mayoral and Councilor Candidates")
+fig.show()
+```
+
+<br>
 
 <p align="center">
  <img src="
 
-
 <br>
-
-
 
 
 
