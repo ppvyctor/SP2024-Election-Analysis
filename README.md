@@ -122,8 +122,8 @@ Analyzing electoral data is crucial for understanding voter behavior, party pref
 
 ### Access Dataset:
 
-- **Dataset 1**: [1st Round]()
-- **Dataset 2**: [2nd Round](0
+- **Dataset 1**: [1st Round](https://app.powerbi.com/view?r=eyJrIjoiNTNmY2Y2YzgtODY3Yy00M2ViLWI0NDItMTdiZDJlNTg4Zjk2IiwidCI6IjhlYjI5MjAxLWEyN2QtNDMwMi04NDczLWM5ODJlYjViZTkzNSJ9)
+- **Dataset 2**: [2nd Round](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/f06522875569f230c72ee09693e14db0a77f20b4/dataset%20local-vote%202018/Zonas_eleitorais_SP_shp.rar)
 
    
 The data used in this study were extracted from public sources, providing information on votes by municipality, electoral zone, and political party. The dataset includes details about mayoral and councilor candidates in São Paulo, including the number of votes received by each candidate.
