@@ -337,21 +337,33 @@ fig.show()
 <br>
 
 <p align="center">
- <img src="
+ <img src="https://github.com/user-attachments/assets/3d78023f-df27-4937-bc96-81b76389cd23" />
 
 <br>
 
+## 8. Interactive Dashboards
 
+### 8.1 Geographic Distribution of Votes
 
+```python
+import plotly.express as px
 
-
+# Map chart for vote distribution by municipality
+df = pd.read_csv('distribution_votes.csv')
+fig = px.choropleth(df, locations="municipality", color="votes", hover_name="municipality", title="Geographic Distribution of Votes")
+fig.show()
+```
 
 <br>
 
 <p align="center">
  <img src="
 
+
 <br>
+
+
+
 
 
 
