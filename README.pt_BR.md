@@ -16,6 +16,17 @@ https://github.com/user-attachments/assets/c34557e8-d1a3-4baa-b995-79b91669b3dd
   
  <br>
  
+## Dataset and Power BI Dashboard
+
+Access the dataset and explore the interactive dashboard through the Power BI link below:
+
+You can explore the dataset and visualize the results with dynamic filters and detailed insights.
+
+[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTNmY2Y2YzgtODY3Yy00M2ViLWI0NDItMTdiZDJlNTg4Zjk2IiwidCI6IjhlYjI5MjAxLWEyN2QtNDMwMi04NDczLWM5ODJlYjViZTkzNSJ9)
+
+
+<br>
+ 
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
 <br>
