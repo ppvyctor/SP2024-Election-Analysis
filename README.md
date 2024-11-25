@@ -498,6 +498,8 @@ The analysis of charts and dashboards enabled a more detailed understanding of v
 
 ## 10. Extra Material
 
+-**Data Analysing Report: [🔗]()
+
 - **Power BI Access Link**: [🔗](https://app.powerbi.com/view?r=eyJrIjoiNTNmY2Y2YzgtODY3Yy00M2ViLWI0NDItMTdiZDJlNTg4Zjk2IiwidCI6IjhlYjI5MjAxLWEyN2QtNDMwMi04NDczLWM5ODJlYjViZTkzNSJ9)
 
   
@@ -517,8 +519,72 @@ The analysis of charts and dashboards enabled a more detailed understanding of v
 - Articles on electoral data analysis and data visualization
 
 
+## 12. How to Run the Project
 
-## 12- Our Team
+This project was developed in Python and uses libraries like Pandas, Plotly, and Dash for data analysis and visualization. Follow the instructions below to set up the environment and run the code.
+
+### 12.1 Requirements
+
+Before running the project, you need to have Python and Git installed on your system.
+
+Download Python
+Download Git
+
+Additionally, you will need the dependencies listed in the requirements.txt file:
+
+```dash
+pandas
+plotly
+```
+
+### 12.2 Cloning the Repository
+
+To get started, clone the repository to your computer:
+
+```dash
+git clone https://github.com/your_user/elections-sp-project.git  
+cd elections-sp-project
+```
+### 12.3 Installing Dependencies
+
+Install the required dependencies by running the following command:
+
+```python
+pip install -r requirements.txt
+```
+
+12.4 Creating the Executable
+
+To create an executable of the project, you can use PyInstaller. Run the following command to generate the executable:
+
+```python
+pyinstaller --onefile electoral_analysis.py
+```
+
+This will create an executable file in the dist/ folder, which can be run directly without needing to install Python.
+
+12.5 Running the Code
+
+After installing the dependencies or creating the executable, run the main script to generate the analyses and visualizations:
+
+```python
+python electoral_analysis.py
+```
+
+12.6 Running the Interactive Dashboard
+
+If you wish to view the interactive dashboards using Dash, run the following command:
+
+```python
+python app.py
+```
+
+This will open the dashboard in your browser.
+
+
+
+
+## 14- Our Team
 
 ### 💌 [Contact Us]()
 
