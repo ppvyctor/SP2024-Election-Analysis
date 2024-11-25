@@ -10,7 +10,7 @@
 
 <br>
 
-📺 [Whatch on You Tube](https://youtu.be/x3A6pHZuOD4)
+📺 [Watch in Full HD on YouTube](https://youtu.be/x3A6pHZuOD4)
 
 <br>
 
