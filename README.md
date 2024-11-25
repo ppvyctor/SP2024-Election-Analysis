@@ -113,7 +113,7 @@ NM_VOTAVEL: Candidate name
 SG_PARTIDO: Party acronym
 QT_VOTOS: Number of votes received
 
-## Processed Files
+### Processed Files
 
 The following CSV files were processed:
 
@@ -125,9 +125,9 @@ The following CSV files were processed:
 - `Councilor_by_city.csv`
 - `councilor.csv`
 
----
 
-## Sample Column Structure
+
+### Sample Column Structure
 
 Here is an overview of the main columns in the processed CSV files:
 
