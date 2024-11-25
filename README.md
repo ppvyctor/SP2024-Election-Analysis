@@ -301,7 +301,33 @@ fig.show()
 <br>
 
 <p align="center">
+ <img src="https://github.com/user-attachments/assets/9a9837fc-beaa-484a-85b9-62d02a79e6b1" />
+
+<br>
+
+### 7.7 Most Voted Councilors by Municipality
+
+```python
+# Grouping councilors by municipality
+municipality_councilor = councilor.groupby("NM_MUNICIPIO").sum().sort_values("QT_VOTES", ascending=False)
+
+# Bar chart
+fig = px.bar(municipality_councilor, x=municipality_councilor.index, y="QT_VOTES", title="Most Voted Councilor by Municipality")
+fig.show()
+```
+
+<br>
+
+<p align="center">
  <img src="
+
+
+
+
+
+
+
+
 
 
 
