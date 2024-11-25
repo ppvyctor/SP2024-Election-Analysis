@@ -500,7 +500,7 @@ The analysis of charts and dashboards enabled a more detailed understanding of v
 <img src="https://github.com/user-attachments/assets/dfc4a631-5f88-42ea-8fea-9186beaeffef" />
 
 
-- **Power BI File** [🔗]()
+- **Power BI File** [🔗](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/8c71e68c34ccfd2c14ff3ecb8d0f7558bcbe109d/Power%20B%20I%20Files/DashBoard.pbix)
 
 ## 11. References
 
