@@ -475,33 +475,42 @@ fig.show()
 
 <br>
 
+## 9. Conclusion
+
+The analysis of the 2024 São Paulo municipal election data provided valuable insights into voter behavior and emerging trends. We observed increasing political polarization, with PSOL gaining strength in peripheral areas and MDB maintaining a solid base in central urban areas. Additionally, the analysis revealed a shift in electoral preferences, with growing support for more progressive parties, especially among younger voters and lower social classes.
+
+The analysis of charts and dashboards enabled a more detailed understanding of vote distribution by geography, candidate performance by electoral zone, and vote segmentation by party and demographic profile. The trends observed suggest that future electoral campaigns should focus on more segmented strategies, considering the social and economic characteristics of each region.
+
+### Recommendations for future campaigns:
+
+- **Personalize electoral communication** for different regions, considering demographic and socioeconomic profiles.
+- **Leverage the growth of social media** and other digital platforms to connect with younger voters and those with limited access to traditional media.
+- **Tailor campaign proposals** according to local issues such as security, health, and education, which were decisive factors for votes in various peripheral zones.
 
 
+## 10. Extra Material
 
+- **Power BI Access Link**: [🔗](https://app.powerbi.com/view?r=eyJrIjoiNTNmY2Y2YzgtODY3Yy00M2ViLWI0NDItMTdiZDJlNTg4Zjk2IiwidCI6IjhlYjI5MjAxLWEyN2QtNDMwMi04NDczLWM5ODJlYjViZTkzNSJ9)
 
+  
+- **QR Code**:  
+  Scan the code to access the data and visualizations on Power BI.
 
-
-
-
-
-
-## Power BI Material
-
-### [Power BI File]()
-
-
-### Power BI Link
-
-[Dashboard Access Link](https://app.powerbi.com/view?r=eyJrIjoiNTNmY2Y2YzgtODY3Yy00M2ViLWI0NDItMTdiZDJlNTg4Zjk2IiwidCI6IjhlYjI5MjAxLWEyN2QtNDMwMi04NDczLWM5ODJlYjViZTkzNSJ9)
-
-### Power BI QR Code
-
- <p align="center">  
+   <p align="center">  
 <img src="https://github.com/user-attachments/assets/dfc4a631-5f88-42ea-8fea-9186beaeffef" />
 
 
+- **Power BI File** [🔗]()
 
-## 14- Our Team
+## 11. References
+
+- **Superior Electoral Court (TSE)**
+- **[Electoral Data Source]**
+- Articles on electoral data analysis and data visualization
+
+
+
+## 12- Our Team
 
 ### 💌 [Contact Us]()
 
@@ -511,7 +520,7 @@ For any questions or suggestions, please feel free to reach out:
 - **Pedro 🛰️  Vyctor** - [email me](mailto:pedro.vyctor00@gmail.com)
  
 
-## [Main Contributors]() 
+## 13- Main Contributors
 
 - [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 - [Pedro 🛰️ Vyctor](https://github.com/ppvyctor)
