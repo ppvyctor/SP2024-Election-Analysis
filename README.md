@@ -12,7 +12,7 @@
 
 📺 [Whatch on You Tube](https://youtu.be/x3A6pHZuOD4)
 
- 📈
+📈 [Power BI Link Acess](https://app.powerbi.com/view?r=eyJrIjoiNTNmY2Y2YzgtODY3Yy00M2ViLWI0NDItMTdiZDJlNTg4Zjk2IiwidCI6IjhlYjI5MjAxLWEyN2QtNDMwMi04NDczLWM5ODJlYjViZTkzNSJ9)
 
 <br>
 
