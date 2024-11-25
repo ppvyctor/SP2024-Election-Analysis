@@ -319,14 +319,39 @@ fig.show()
 <br>
 
 <p align="center">
+ <img src="https://github.com/user-attachments/assets/0aa00302-2929-4e9e-a24a-59cc2dd801a0" />
+
+<br>
+
+### 7.8 Distribution of Votes by Political Party
+
+```python
+# Analyzing distribution of votes by party
+party_votes = election.groupby("SG_PARTIDO").sum().sort_values("QT_VOTES", ascending=False)
+
+# Bar chart
+fig = px.bar(party_votes, x=party_votes.index, y="QT_VOTES", title="Distribution of Votes by Political Party")
+fig.show()
+```
+
+<br>
+
+<p align="center">
  <img src="
 
+<br>
 
 
 
 
 
 
+<br>
+
+<p align="center">
+ <img src="
+
+<br>
 
 
 
