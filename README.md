@@ -283,14 +283,25 @@ fig.show()
 <br>
 
 <p align="center">
- <img src="
+ <img src="https://github.com/user-attachments/assets/00af4cb4-bac4-4c52-9e05-fdba5fb9b6be"/>
 
 <br>
 
+### 7.6 Most Voted Mayors by Municipality
 
+```python
+# Grouping mayors by municipality
+municipality = mayor.groupby("NM_MUNICIPIO").sum().sort_values("QT_VOTES", ascending=False)
 
+# Bar chart
+fig = px.bar(municipality, x=municipality.index, y="QT_VOTES", title="Most Voted Mayor by Municipality")
+fig.show()
+```
 
+<br>
 
+<p align="center">
+ <img src="
 
 
 
