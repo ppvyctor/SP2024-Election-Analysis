@@ -120,6 +120,12 @@ Analyzing electoral data is crucial for understanding voter behavior, party pref
 
 
 ## 4. Dataset Description
+
+### Access Dataset:
+
+- **Dataset 1**: [1st Round]()
+- **Dataset 2**: [2nd Round](0
+
    
 The data used in this study were extracted from public sources, providing information on votes by municipality, electoral zone, and political party. The dataset includes details about mayoral and councilor candidates in São Paulo, including the number of votes received by each candidate.
 
