@@ -27,6 +27,11 @@ This work was developed as part of the **Integrated Project and Storytelling** c
 
 His **expertise** and **unwavering dedication** to teaching played a crucial role in deepening our understanding of both **data science** and the **art of storytelling**.
 
+Develpoed By 
+
+Fabiana 🚀 Campanari and Pedro Vyctor 🛰️ Almeira
+
+
 
  <br><br>  
 
