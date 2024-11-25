@@ -34,12 +34,10 @@ His **expertise** and **unwavering dedication** to teaching played a crucial rol
 
 <br>
 
-### [Develpoed By](): 
+### Developped by:
 
-Fabiana 🚀 Campanari 
-
-Pedro Vyctor 🛰️ Almeira
-
+- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+- [Pedro 🛰️ Vyctor](https://github.com/ppvyctor)
 
 
  <br><br>  
@@ -633,12 +631,6 @@ For any questions or suggestions, please feel free to reach out:
 - **Fabiana 🚀 Campanari** - [email me](mailto:fabicampanari@proton.me)
 - **Pedro 🛰️  Vyctor** - [email me](mailto:pedro.vyctor00@gmail.com)
 
-<br>
- 
-### Main Contributors
-
-- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
-- [Pedro 🛰️ Vyctor](https://github.com/ppvyctor)
 
 
 <br><br>
