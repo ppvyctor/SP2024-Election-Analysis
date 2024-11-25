@@ -139,6 +139,23 @@ Here is an overview of the main columns in the processed CSV files:
 - **`QT_VOTOS`**: Number of votes received  
 
 
+## 5. Methodology
+
+The methodology was divided into several steps:
+
+- **Data Preprocessing**: Reading and concatenating datasets, cleaning invalid records.
+- **Exploratory Data Analysis (EDA)**: Identifying voting patterns and trends using graphs and tables.
+- **Data Visualization**: Creating interactive charts with the Plotly library for dynamic result exploration.
+
+
+## 6. Exploratory Data Analysis
+
+The exploratory analysis uncovered several interesting trends, such as:
+
+- The dominance of votes for parties like MDB and PSOL.
+- A geographic vote distribution showing high concentration in central São Paulo and greater support for progressive parties in peripheral areas.
+
+
 
 
 
