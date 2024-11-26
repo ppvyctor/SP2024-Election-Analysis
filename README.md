@@ -34,7 +34,7 @@ His **expertise** and **unwavering dedication** to teaching played a crucial rol
 
 <br>
 
-### Developped by:
+### Developed by:
 
 - [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 - [Pedro 🛰️ Vyctor](https://github.com/ppvyctor)
