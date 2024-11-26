@@ -67,6 +67,8 @@ Acesse o conjunto de dados e explore o dashboard interativo através do link Pow
 
 ## Índice
 
+A estrutura está bem organizada, mas fiz algumas sugestões para melhorar a fluidez e a clareza. Veja abaixo a versão revisada:
+
 - [Introdução](#introdução)
 - [Objetivos do Estudo](#objetivos-do-estudo)
 - [Fundamentação Teórica](#fundamentação-teórica)
@@ -94,6 +96,7 @@ Acesse o conjunto de dados e explore o dashboard interativo através do link Pow
 - [Como Executar o Projeto](#como-executar-o-projeto)
 - [Contribuindo](#contribuindo)
 - [Nossa Equipe](#nossa-equipe)
+
 
 
  ## 1. Introdução
