@@ -484,14 +484,15 @@ A análise dos gráficos e dashboards possibilitou uma compreensão mais detalha
 - **Aproveitar o crescimento das redes sociais** e outras plataformas digitais para se conectar com eleitores mais jovens e aqueles com acesso limitado aos meios de comunicação tradicionais.
 - **Ajustar as propostas de campanha** de acordo com questões locais como segurança, saúde e educação, que foram fatores decisivos para votos em várias zonas periféricas.
 
-## 10. Extra Material
+## 10. Material Extra
 
-- **Relatório de Análise de Dados**: [Clique 🔗](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/tree/233c663b48c7683ecdfb905ca1e20ea256dc8972/6-Data%20Analysing%20Report)
+- **🇺🇸 Relatório de Análise de Dados**: [Clique 🔗](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/77ee8d3319a14c05ae6d3b023e0a4101ec5e2943/Data%20Analysing%20Report/%F0%9F%87%BA%F0%9F%87%B8Data%20Analysing%20Report.pdf)
+- **🇧🇷 Relatório de Análise de Dados**: [Clique 🔗](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/9ab39e27ff0f2e8444b7c773ec309986d073ad92/Data%20Analysing%20Report/%F0%9F%87%A7%F0%9F%87%B7Analise%20do%20Dados%20Relatoirio.pdf)
 
 - **Link de Acesso ao Power BI**: [Clique 🔗](https://app.powerbi.com/view?r=eyJrIjoiNTNmY2Y2YzgtODY3Yy00M2ViLWI0NDItMTdiZDJlNTg4Zjk2IiwidCI6IjhlYjI5MjAxLWEyN2QtNDMwMi04NDczLWM5ODJlYjViZTkzNSJ9)
 
-- **Arquivo Power BI**: [Clique 🔗](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/8c71e68c34ccfd2c14ff3ecb8d0f7558bcbe109d/Power%20B%20I%20Files/DashBoard.pbix)
-
+- **Arquivo do Power BI**: [Clique 🔗](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/8c71e68c34ccfd2c14ff3ecb8d0f7558bcbe109d/Power%20B%20I%20Files/DashBoard.pbix)
+  
 <br>
 
 - **QR Code**:  
