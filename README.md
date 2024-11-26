@@ -611,9 +611,14 @@ Make sure your changes do not break existing functionality and that the tests ar
 
 
 
-## 14- Team and Contacts
+## 14-  💌  Team and Contacts
 
-### 💌 [Core Team:]()
+### Core Team:
+
+Fabiana 🚀 Campanari [GitHub]()
+
+Pedro 🛰️ Vyctor [GitHub]()
+
 
 For any questions or suggestions, please feel free to reach out:
 
