@@ -121,7 +121,7 @@ Analyzing electoral data is crucial for understanding voter behavior, party pref
 - **Dataset 1**: [1st Round](https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2024/buweb/bweb_1t_SP_091020241636.zip)
 - **Dataset 2**: [2nd Round](https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2024/buweb/bweb_2t_SP_281020241046.zip)
 
-- - **TSE Documentation 1**: [1st Round]()
+- - **TSE Documentation 1**: [1st Round](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/8143d09ee6181996007e7effc9f96d49969a1a2f/TSE%20Official%20Documentation/1_Round_leiame-boletimurnaweb.pdf)
 - **TSE Documentatio 2**: [2nd Round]()
 
    
