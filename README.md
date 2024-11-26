@@ -121,11 +121,15 @@ Analyzing electoral data is crucial for understanding voter behavior, party pref
 - **Dataset 1**: [1st Round](https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2024/buweb/bweb_1t_SP_091020241636.zip)
 - **Dataset 2**: [2nd Round](https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2024/buweb/bweb_2t_SP_281020241046.zip)
 
-- - **TSE Documentation 1**: [1st Round](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/8143d09ee6181996007e7effc9f96d49969a1a2f/TSE%20Official%20Documentation/1_Round_leiame-boletimurnaweb.pdf)
-- **TSE Documentatio 2**: [2nd Round](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/88c50cb50011529465425444a500028208c873c1/dataset%20and%20document%20-%202%20Round/2_Round_leiame-boletimurnaweb.pdf)
-
    
 The data used in this study were extracted from public sources, providing information on votes by municipality, electoral zone, and political party. The dataset includes details about mayoral and councilor candidates in São Paulo, including the number of votes received by each candidate.
+
+
+### TSE Documentatiuon
+
+- **TSE Documentation 1**: [1st Round](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/8143d09ee6181996007e7effc9f96d49969a1a2f/TSE%20Official%20Documentation/1_Round_leiame-boletimurnaweb.pdf)
+- **TSE Documentatio 2**: [2nd Round](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/88c50cb50011529465425444a500028208c873c1/dataset%20and%20document%20-%202%20Round/2_Round_leiame-boletimurnaweb.pdf)
+
 
 
 ## Processed Files
