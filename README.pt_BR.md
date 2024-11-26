@@ -112,14 +112,19 @@ Analisar dados eleitorais é crucial para entender o comportamento do eleitor, a
 
 ## 4. Descrição do Conjunto de Dados
 
-### Acesso ao Conjunto de Dados:
 
-- **Conjunto de Dados 1**: [1º Turno](https://app.powerbi.com/view?r=eyJrIjoiNTNmY2Y2YzgtODY3Yy00M2ViLWI0NDItMTdiZDJlNTg4Zjk2IiwidCI6IjhlYjI5MjAxLWEyN2QtNDMwMi04NDczLWM5ODJlYjViZTkzNSJ9)
-- **Conjunto de Dados 2**: [2º Turno](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/f06522875569f230c72ee09693e14db0a77f20b4/dataset%20local-vote%202018/Zonas_eleitorais_SP_shp.rar)
+- **Conjunto de Dados 1**: [1º Turno](https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2024/buweb/bweb_1t_SP_091020241636.zip)
+- **Dataset 2**: [2nd Round](https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2024/buweb/bweb_2t_SP_281020241046.zip)
 
 Os dados usados neste estudo foram extraídos de fontes públicas, fornecendo informações sobre votos por município, zona eleitoral e partido político. O conjunto de dados inclui detalhes sobre os candidatos a prefeito e vereador em São Paulo, incluindo o número de votos recebidos por cada candidato.
 
-### Arquivos Processados
+
+### TSE Documentatiuon
+
+- **TSE Documentation 1**: [1st Round](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/8143d09ee6181996007e7effc9f96d49969a1a2f/TSE%20Official%20Documentation/1_Round_leiame-boletimurnaweb.pdf)
+- **Conjunto de Dados 2**: [2º Turno](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/88c50cb50011529465425444a500028208c873c1/dataset%20and%20document%20-%202%20Round/2_Round_leiame-boletimurnaweb.pdf)
+
+## Arquivos Processados
 
 Os seguintes arquivos CSV foram processados:
 
@@ -143,19 +148,6 @@ Aqui está uma visão geral das principais colunas nos arquivos CSV processados:
 - **`QT_VOTOS`**: Número de votos recebidos
 
 
-
-### Estrutura de Colunas Exemplares
-
-Aqui está uma visão geral das principais colunas nos arquivos CSV processados:
-
-- **`NM_MUNICIPIO`**: Nome do município  
-- **`NR_ZONA`**: Número da zona eleitoral  
-- **`DS_CARGO_PERGUNTA`**: Cargo eleitoral (Prefeito ou Vereador)  
-- **`NM_VOTAVEL`**: Nome do candidato  
-- **`SG_PARTIDO`**: Sigla do partido  
-- **`QT_VOTOS`**: Número de votos recebidos  
-
----
 
 ## 5. Metodologia
 
