@@ -609,15 +609,17 @@ Certifique-se de que suas alterações não quebrem a funcionalidade existente e
 
 
 
-## 14. Nossa Equipe
+## 14- 💌 Equipe e Contatos
 
-### 💌 [Entre em Contato]()
+### Equipe Principal:
 
-Para quaisquer dúvidas ou sugestões, fique à vontade para entrar em contato:
+- **Fabiana 🚀 Campanari** - [GitHub](https://github.com/FabianaCampanari)  
+- **Pedro 🛰️ Vyctor** - [GitHub](https://github.com/ppvyctor)  
 
-- **Fabiana 🚀 Campanari** - [email me](mailto:fabicampanari@proton.me)
-- **Pedro 🛰️  Vyctor** - [email me](mailto:pedro.vyctor00@gmail.com)
+### Contato:
 
+- **Fabiana 🚀 Campanari** - [me envie um e-mail](mailto:fabicampanari@proton.me)  
+- **Pedro 🛰️ Vyctor** - [me envie um e-mail](mailto:pedro.vyctor00@gmail.com)
 
 
 <br><br>
