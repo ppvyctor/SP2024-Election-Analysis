@@ -615,8 +615,8 @@ Make sure your changes do not break existing functionality and that the tests ar
 
 ### Core Team:
 
-- **Fabiana 🚀 Campanari**i [GitHub]()
-- **Pedro 🛰️  Vyctor** - [Github]()
+- **Fabiana 🚀 Campanari**i [GitHub](https://github.com/FabianaCampanari)
+- **Pedro 🛰️  Vyctor** - [Github](https://github.com/ppvyctor)
 - 
 ### Contact:
 
