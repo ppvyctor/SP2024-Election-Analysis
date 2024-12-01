@@ -546,8 +546,7 @@ plotly
 To get started, clone the repository to your computer:
 
 ```bash
-git clone https://github.com/your_user/elections-sp-project.git  
-cd elections-sp-project
+git clone https://github.com/your_user/SP2024-Election-Analysis.git  
 ```
 
 <br>
