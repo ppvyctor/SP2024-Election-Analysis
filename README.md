@@ -34,7 +34,7 @@ His **expertise** and **unwavering dedication** to teaching played a crucial rol
 
 <br>
 
-### Developped by:
+### Developed by:
 
 - [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 - [Pedro 🛰️ Vyctor](https://github.com/ppvyctor)
@@ -118,14 +118,24 @@ Analyzing electoral data is crucial for understanding voter behavior, party pref
 
 ### Access Dataset:
 
-- **Dataset 1**: [1st Round](https://app.powerbi.com/view?r=eyJrIjoiNTNmY2Y2YzgtODY3Yy00M2ViLWI0NDItMTdiZDJlNTg4Zjk2IiwidCI6IjhlYjI5MjAxLWEyN2QtNDMwMi04NDczLWM5ODJlYjViZTkzNSJ9)
-- **Dataset 2**: [2nd Round](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/f06522875569f230c72ee09693e14db0a77f20b4/dataset%20local-vote%202018/Zonas_eleitorais_SP_shp.rar)
+- **Dataset 1**: [1st Round](https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2024/buweb/bweb_1t_SP_091020241636.zip)
+- **Dataset 2**: [2nd Round](https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2024/buweb/bweb_2t_SP_281020241046.zip)
 
    
 The data used in this study were extracted from public sources, providing information on votes by municipality, electoral zone, and political party. The dataset includes details about mayoral and councilor candidates in São Paulo, including the number of votes received by each candidate.
 
 
+### TSE Documentatiuon
+
+- **TSE Documentation 1**: [1st Round](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/8143d09ee6181996007e7effc9f96d49969a1a2f/TSE%20Official%20Documentation/1_Round_leiame-boletimurnaweb.pdf)
+- **TSE Documentatio 2**: [2nd Round](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/88c50cb50011529465425444a500028208c873c1/dataset%20and%20document%20-%202%20Round/2_Round_leiame-boletimurnaweb.pdf)
+
+
+
 ## Processed Files
+
+
+👉🏻 [Access Aqui Todos os Arquivos Processadios](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/tree/7e44e7a2317aa0adedfd19adc6d14ef9ae13036a/Processed%20Database%20for%20Analysis%20-%20Base%20de%20Dados%20Processada%20para%20Ana%CC%81lise)
 
 The following CSV files were processed:
 
@@ -483,7 +493,8 @@ The analysis of charts and dashboards enabled a more detailed understanding of v
 
 ## 10. Extra Material
 
-- **Data Analysing Report**: [Click 🔗](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/tree/233c663b48c7683ecdfb905ca1e20ea256dc8972/6-Data%20Analysing%20Report)
+- **🇺🇸 Data Analysing Report**: [Click 🔗](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/77ee8d3319a14c05ae6d3b023e0a4101ec5e2943/Data%20Analysing%20Report/%F0%9F%87%BA%F0%9F%87%B8Data%20Analysing%20Report.pdf)
+- **🇧🇷 Data Analysing Report**[Click 🔗](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/9ab39e27ff0f2e8444b7c773ec309986d073ad92/Data%20Analysing%20Report/%F0%9F%87%A7%F0%9F%87%B7Analise%20do%20Dados%20Relatoirio.pdf)
 
 - **Power BI Access Link**: [Click 🔗](https://app.powerbi.com/view?r=eyJrIjoiNTNmY2Y2YzgtODY3Yy00M2ViLWI0NDItMTdiZDJlNTg4Zjk2IiwidCI6IjhlYjI5MjAxLWEyN2QtNDMwMi04NDczLWM5ODJlYjViZTkzNSJ9)
 
@@ -535,8 +546,7 @@ plotly
 To get started, clone the repository to your computer:
 
 ```bash
-git clone https://github.com/your_user/elections-sp-project.git  
-cd elections-sp-project
+git clone https://github.com/your_user/SP2024-Election-Analysis.git  
 ```
 
 <br>
@@ -606,16 +616,17 @@ Make sure your changes do not break existing functionality and that the tests ar
 
 
 
-## 14- Our Team
+## 14-  💌  Team and Contacts
 
-### 💌 [Contact Us]()
+### Core Team:
 
-For any questions or suggestions, please feel free to reach out:
+- **Fabiana 🚀 Campanari**i [GitHub](https://github.com/FabianaCampanari)
+- **Pedro 🛰️  Vyctor** - [Github](https://github.com/ppvyctor)
+  
+### Contact:
 
 - **Fabiana 🚀 Campanari** - [email me](mailto:fabicampanari@proton.me)
 - **Pedro 🛰️  Vyctor** - [email me](mailto:pedro.vyctor00@gmail.com)
-
-
 
 <br><br>
 

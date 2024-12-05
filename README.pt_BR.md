@@ -16,8 +16,6 @@ https://github.com/user-attachments/assets/c34557e8-d1a3-4baa-b995-79b91669b3dd
 
 <br>
 
-#### <p align="center"> [![Patrocine Mindful AI Assistants](https://img.shields.io/badge/Sponsor-
-    <img src="https://github.com/user-attachments/assets/54e83b3b-a875-4d76-bcfd-e562c2c12b3c" alt="Map Preview" />
 
 
  #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
@@ -69,6 +67,8 @@ Acesse o conjunto de dados e explore o dashboard interativo através do link Pow
 
 ## Índice
 
+A estrutura está bem organizada, mas fiz algumas sugestões para melhorar a fluidez e a clareza. Veja abaixo a versão revisada:
+
 - [Introdução](#introdução)
 - [Objetivos do Estudo](#objetivos-do-estudo)
 - [Fundamentação Teórica](#fundamentação-teórica)
@@ -98,6 +98,7 @@ Acesse o conjunto de dados e explore o dashboard interativo através do link Pow
 - [Nossa Equipe](#nossa-equipe)
 
 
+
  ## 1. Introdução
      
 Este relatório apresenta uma análise detalhada dos dados das eleições municipais de São Paulo de 2024, com foco na distribuição de votos, comportamento do eleitor e o desempenho dos candidatos a prefeito e vereador. Várias visualizações e dashboards são usados para explorar os padrões de votação, tendências emergentes e os fatores que influenciam os resultados eleitorais.
@@ -114,14 +115,19 @@ Analisar dados eleitorais é crucial para entender o comportamento do eleitor, a
 
 ## 4. Descrição do Conjunto de Dados
 
-### Acesso ao Conjunto de Dados:
 
-- **Conjunto de Dados 1**: [1º Turno](https://app.powerbi.com/view?r=eyJrIjoiNTNmY2Y2YzgtODY3Yy00M2ViLWI0NDItMTdiZDJlNTg4Zjk2IiwidCI6IjhlYjI5MjAxLWEyN2QtNDMwMi04NDczLWM5ODJlYjViZTkzNSJ9)
-- **Conjunto de Dados 2**: [2º Turno](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/f06522875569f230c72ee09693e14db0a77f20b4/dataset%20local-vote%202018/Zonas_eleitorais_SP_shp.rar)
+- **Conjunto de Dados 1**: [1º Turno](https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2024/buweb/bweb_1t_SP_091020241636.zip)
+- **Dataset 2**: [2nd Round](https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2024/buweb/bweb_2t_SP_281020241046.zip)
 
 Os dados usados neste estudo foram extraídos de fontes públicas, fornecendo informações sobre votos por município, zona eleitoral e partido político. O conjunto de dados inclui detalhes sobre os candidatos a prefeito e vereador em São Paulo, incluindo o número de votos recebidos por cada candidato.
 
-### Arquivos Processados
+
+### TSE Documentatiuon
+
+- **TSE Documentation 1**: [1st Round](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/8143d09ee6181996007e7effc9f96d49969a1a2f/TSE%20Official%20Documentation/1_Round_leiame-boletimurnaweb.pdf)
+- **Conjunto de Dados 2**: [2º Turno](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/88c50cb50011529465425444a500028208c873c1/dataset%20and%20document%20-%202%20Round/2_Round_leiame-boletimurnaweb.pdf)
+
+## Arquivos Processados
 
 Os seguintes arquivos CSV foram processados:
 
@@ -145,19 +151,6 @@ Aqui está uma visão geral das principais colunas nos arquivos CSV processados:
 - **`QT_VOTOS`**: Número de votos recebidos
 
 
-
-### Estrutura de Colunas Exemplares
-
-Aqui está uma visão geral das principais colunas nos arquivos CSV processados:
-
-- **`NM_MUNICIPIO`**: Nome do município  
-- **`NR_ZONA`**: Número da zona eleitoral  
-- **`DS_CARGO_PERGUNTA`**: Cargo eleitoral (Prefeito ou Vereador)  
-- **`NM_VOTAVEL`**: Nome do candidato  
-- **`SG_PARTIDO`**: Sigla do partido  
-- **`QT_VOTOS`**: Número de votos recebidos  
-
----
 
 ## 5. Metodologia
 
@@ -486,14 +479,15 @@ A análise dos gráficos e dashboards possibilitou uma compreensão mais detalha
 - **Aproveitar o crescimento das redes sociais** e outras plataformas digitais para se conectar com eleitores mais jovens e aqueles com acesso limitado aos meios de comunicação tradicionais.
 - **Ajustar as propostas de campanha** de acordo com questões locais como segurança, saúde e educação, que foram fatores decisivos para votos em várias zonas periféricas.
 
-## 10. Extra Material
+## 10. Material Extra
 
-- **Relatório de Análise de Dados**: [Clique 🔗](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/tree/233c663b48c7683ecdfb905ca1e20ea256dc8972/6-Data%20Analysing%20Report)
+- **🇺🇸 Relatório de Análise de Dados**: [Clique 🔗](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/77ee8d3319a14c05ae6d3b023e0a4101ec5e2943/Data%20Analysing%20Report/%F0%9F%87%BA%F0%9F%87%B8Data%20Analysing%20Report.pdf)
+- **🇧🇷 Relatório de Análise de Dados**: [Clique 🔗](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/9ab39e27ff0f2e8444b7c773ec309986d073ad92/Data%20Analysing%20Report/%F0%9F%87%A7%F0%9F%87%B7Analise%20do%20Dados%20Relatoirio.pdf)
 
 - **Link de Acesso ao Power BI**: [Clique 🔗](https://app.powerbi.com/view?r=eyJrIjoiNTNmY2Y2YzgtODY3Yy00M2ViLWI0NDItMTdiZDJlNTg4Zjk2IiwidCI6IjhlYjI5MjAxLWEyN2QtNDMwMi04NDczLWM5ODJlYjViZTkzNSJ9)
 
-- **Arquivo Power BI**: [Clique 🔗](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/8c71e68c34ccfd2c14ff3ecb8d0f7558bcbe109d/Power%20B%20I%20Files/DashBoard.pbix)
-
+- **Arquivo do Power BI**: [Clique 🔗](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/8c71e68c34ccfd2c14ff3ecb8d0f7558bcbe109d/Power%20B%20I%20Files/DashBoard.pbix)
+  
 <br>
 
 - **QR Code**:  
@@ -611,15 +605,17 @@ Certifique-se de que suas alterações não quebrem a funcionalidade existente e
 
 
 
-## 14. Nossa Equipe
+## 14- 💌 Equipe e Contatos
 
-### 💌 [Entre em Contato]()
+### Equipe Principal:
 
-Para quaisquer dúvidas ou sugestões, fique à vontade para entrar em contato:
+- **Fabiana 🚀 Campanari** - [GitHub](https://github.com/FabianaCampanari)  
+- **Pedro 🛰️ Vyctor** - [GitHub](https://github.com/ppvyctor)  
 
-- **Fabiana 🚀 Campanari** - [email me](mailto:fabicampanari@proton.me)
-- **Pedro 🛰️  Vyctor** - [email me](mailto:pedro.vyctor00@gmail.com)
+### Contato:
 
+- **Fabiana 🚀 Campanari** - [me envie um e-mail](mailto:fabicampanari@proton.me)  
+- **Pedro 🛰️ Vyctor** - [me envie um e-mail](mailto:pedro.vyctor00@gmail.com)
 
 
 <br><br>
