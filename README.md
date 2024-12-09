@@ -135,7 +135,7 @@ The data used in this study were extracted from public sources, providing inform
 ## Processed Files
 
 
-👉🏻 [Access Aqui Todos os Arquivos Processadios](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/tree/7e44e7a2317aa0adedfd19adc6d14ef9ae13036a/Processed%20Database%20for%20Analysis%20-%20Base%20de%20Dados%20Processada%20para%20Ana%CC%81lise)
+👉🏻 [Access Here All Processed Files](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/tree/7e44e7a2317aa0adedfd19adc6d14ef9ae13036a/Processed%20Database%20for%20Analysis%20-%20Base%20de%20Dados%20Processada%20para%20Ana%CC%81lise)
 
 The following CSV files were processed:
 
