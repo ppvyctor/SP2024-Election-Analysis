@@ -624,5 +624,5 @@ Certifique-se de que suas alterações não quebrem a funcionalidade existente e
 
 #
 
-##### <p align="center">Copyright 2024 Mindful-AI-Assistants. Código liberado sob a [Licença MIT.](https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1106a/LICENSE)
+##### <p align="center">Copyright 2025 Mindful-AI-Assistants. Código liberado sob a [Licença MIT.](https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1106a/LICENSE)
 
