@@ -4,7 +4,7 @@
 streamlit==1.41.1
 
 # Bibliotecas para manipulação de dados
-numpy==2.2.1
+numpy==2.2.2
 pandas==2.2.3
 
 
@@ -15,7 +15,8 @@ seaborn==0.13.2
 # Bibliotecas para análise de dados
 scipy==1.15.1
 scikit-learn==1.6.0
-scipy==1.15.1
+scikit-learn==1.6.1
+scipy==1.14.1
 scikit-learn==1.6.1
 
 
@@ -25,7 +26,7 @@ keras==3.8.0
 
 
 # Bibliotecas para web scraping
-beautifulsoup4==4.12.3
+beautifulsoup4==4.13.1
 requests==2.32.3
 
 # Bibliotecas para trabalhar com bancos de dados
