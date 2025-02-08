@@ -331,7 +331,7 @@ fig.show()
 
 <br>
 
-### 7.7 Most Voted Councilors by Municipality
+### 7.7 Vereadores Mais Votados por Município.
 
 The analysis showed a strong presence of candidates like Eduardo Suplicy (PT) across several municipalities, reflecting broad political support.
 
