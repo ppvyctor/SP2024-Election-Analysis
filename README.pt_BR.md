@@ -333,7 +333,7 @@ fig.show()
 
 ### 7.7 Vereadores Mais Votados por Município.
 
-The analysis showed a strong presence of candidates like Eduardo Suplicy (PT) across several municipalities, reflecting broad political support.
+A análise mostrou uma forte presença de candidatos como Eduardo Suplicy (PT) em vários municípios, refletindo amplo apoio político.
 
 ```python
 # Grouping councilors by municipality
