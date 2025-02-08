@@ -283,9 +283,10 @@ fig.show()
 
 <br>
 
-### 7.5 Most Voted Councilors by Electoral Zone
+### 7.5 Vereadores Mais Votados por Zona Eleitoral.
 
 A análise revelou que candidatos como Márcio Chagas (PSOL) e Luana Almeida (PL) estão se saindo bem em áreas suburbanas.
+
 ```python
 # Analyzing most voted councilors by electoral zone
 areas = pd.DataFrame({
