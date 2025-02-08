@@ -309,7 +309,7 @@ fig.show()
 
 <br>
 
-### 7.6 Most Voted Mayors by Municipality
+### 7.6 A tradução para o português de "Most Voted Mayors by Municipality" é "Prefeitos Mais Votados por Município".
 
 The municipality-level analysis confirmed Ricardo Nunes' dominance in urban areas and Boulos’ strength in peripheral zones.
 
