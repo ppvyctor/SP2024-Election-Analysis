@@ -352,7 +352,7 @@ fig.show()
 
 <br>
 
-### 7.8 Distribution of Votes by Political Party
+### 7.8 Distribuição dos Votos por Partido Político
 
 The vote distribution charts confirmed the dominance of MDB and PSOL, with PSOL's support growing in peripheral zones.
 
