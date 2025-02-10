@@ -373,7 +373,7 @@ fig.show()
 
 <br>
 
-## 8. Interactive Power BI Dashboards: [Click to access the link](https://app.powerbi.com/view?r=eyJrIjoiNTNmY2Y2YzgtODY3Yy00M2ViLWI0NDItMTdiZDJlNTg4Zjk2IiwidCI6IjhlYjI5MjAxLWEyN2QtNDMwMi04NDczLWM5ODJlYjViZTkzNSJ9)
+## 8. Painéis Interativos do Power BI: [Click to access the link](https://app.powerbi.com/view?r=eyJrIjoiNTNmY2Y2YzgtODY3Yy00M2ViLWI0NDItMTdiZDJlNTg4Zjk2IiwidCI6IjhlYjI5MjAxLWEyN2QtNDMwMi04NDczLWM5ODJlYjViZTkzNSJ9)
 
 ### 8.1 Dashboard 1: Geographic Distribution of Votes
 
