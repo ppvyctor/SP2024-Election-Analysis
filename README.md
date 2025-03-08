@@ -8,15 +8,17 @@
 ## <p align="center">    📊 Data Analysis and Visualization: São Paulo Municipal Elections  - 1st and 2nd Round (2024)
 #### <p align="center">  An analysis of voting patterns in São Paulo's 2024 elections, focusing on voter behavior, absenteeism, and geographic trends.
 
-<br>
-
-📺 [Watch in Full HD on YouTube](https://youtu.be/x3A6pHZuOD4)
 
 <br>
 
 https://github.com/user-attachments/assets/1b17d66f-3fa0-40dc-bfdc-031ca5b703aa
 
  <br>
+
+ <br>
+
+#### 📺 [Watch in Full HD on YouTube](https://youtu.be/x3A6pHZuOD4)
+
 
 
  #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
