@@ -32,7 +32,7 @@ Sua **experiência** e **dedicação inabalável** ao ensino desempenharam um pa
 
 <br>
 
-### ### Developed by:
+### Developed by:
 
 - [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 - [Pedro 🛰️ Vyctor](https://github.com/ppvyctor)
