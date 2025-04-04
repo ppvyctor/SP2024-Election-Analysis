@@ -48,6 +48,8 @@ His **expertise** and **unwavering dedication** to teaching played a crucial rol
 
 #### ➢ [Kepler](https://kepler.gl/demo)
 
+#### ➣➢ [Shapefiles Geolocation Sao Paulo](https://clubedogis.com.br/download-shapefiles-de-sao-paulo/#:~:text=Descubra%20onde%20encontrar%20e%20como%20fazer)
+
 #### ➣ Click and access the [Full Map](https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/scl/fi/j9043tqmx3f6f43mp2oy9/keplergl_b3rkgfo.json?rlkey=go52o1cgn9t3bgh60lhhlju8n&dl=0)
 
 
