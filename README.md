@@ -48,6 +48,10 @@ His **expertise** and **unwavering dedication** to teaching played a crucial rol
 
 ## [Interactive Map]() 
 
+#### ➢ [Kepler](https://kepler.gl/demo)
+
+<br>
+
 <p align="center">
 To access the full Map, click the Map below:
 </p>
