@@ -50,9 +50,13 @@ His **expertise** and **unwavering dedication** to teaching played a crucial rol
 
 <br>
 
-<p align="center">
-To access the full Map, click the Map below:
-</p>
+<p align="center">  Click and access the full Map: (https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/scl/fi/j9043tqmx3f6f43mp2oy9/keplergl_b3rkgfo.json?rlkey=go52o1cgn9t3bgh60lhhlju8n&dl=0)
+
+
+
+
+
+access the full Map
 
 <br>
 
