@@ -46,7 +46,7 @@ His **expertise** and **unwavering dedication** to teaching played a crucial rol
 
 ## [Interactive Map]() 
 
-#### ➢ [Osint]()
+#### ➢ [Osint](https://www.myosint.training/courses/introduction-to-osint?ref=f7428c)
 
 #### ➢ [Kepler](https://kepler.gl/demo)
 
