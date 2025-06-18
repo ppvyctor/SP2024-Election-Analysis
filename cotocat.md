@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="50" height="50"> https://github.com/Mindful-AI-Assistants/planet-smart-city-laguna-iot-pucsp
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="50" height="50"> https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis
 
 
 
