@@ -604,19 +604,41 @@ Se você quiser contribuir para este projeto, fique à vontade para fazer um *fo
 Certifique-se de que suas alterações não quebrem a funcionalidade existente e que os testes estejam atualizados.
 
 
+<br><br>
 
-## 14- 💌 Equipe e Contatos
 
-### Equipe Principal:
+## 💌 [Let the data flow... Ping Us]()
 
-- **Fabiana 🚀 Campanari** - [GitHub](https://github.com/FabianaCampanari)  
-- **Pedro 🛰️ Vyctor** - [GitHub](https://github.com/ppvyctor)  
 
-### Contato:
+- **Fabiana 🚀 Campanari** - [Shoot me an email](mailto:fabicampanari@proton.me)
+  
+- **Pedro 🛰️ Vyctor** - [Hit me up by email](mailto:pedro.vyctor00@gmail.com)
 
-- **Fabiana 🚀 Campanari** - [me envie um e-mail](mailto:fabicampanari@proton.me)  
-- **Pedro 🛰️ Vyctor** - [me envie um e-mail](mailto:pedro.vyctor00@gmail.com)
 
+
+<br>
+
+
+#### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
+
+
+<br>
+
+### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
+
+
+<br><br>
+
+<p align="center">  ────────────── ⊹🔭๋ ──────────────
+
+<!--
+<p align="center">  ────────────── 🛸๋*ੈ✩* 🔭*ੈ₊ ──────────────
+-->
+
+<br>
+
+<p align="center"> ➣➢➤ <a href="#top">Back to Top </a>
+  
 
 <br><br>
 
