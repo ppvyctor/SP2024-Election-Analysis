@@ -625,12 +625,11 @@ Make sure your changes do not break existing functionality and that the tests ar
 
 
 
-<br>
+<br><br>
 
 
-### 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
+## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
 
-### 💌 [Let the data flow... Pedro !](mailto:fabicampanari@proton.me)
 
 <br>
 
