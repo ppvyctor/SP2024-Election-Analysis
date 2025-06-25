@@ -625,21 +625,36 @@ Make sure your changes do not break existing functionality and that the tests ar
 
 
 
-## 14-  💌  Team and Contacts
+<br>
 
-### Core Team:
 
-- **Fabiana 🚀 Campanari**i [GitHub](https://github.com/FabianaCampanari)
-- **Pedro 🛰️  Vyctor** - [Github](https://github.com/ppvyctor)
-  
-### Contact:
+### 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
 
-- **Fabiana 🚀 Campanari** - [email me](mailto:fabicampanari@proton.me)
-- **Pedro 🛰️  Vyctor** - [email me](mailto:pedro.vyctor00@gmail.com)
+### 💌 [Let the data flow... Pedro !](mailto:fabicampanari@proton.me)
+
+<br>
+
+
+#### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
+
+
+<br>
+
+### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
+
 
 <br><br>
 
-<p align="center"> <a href="#Top">Back to top</a>
+<p align="center">  ────────────── ⊹🔭๋ ──────────────
+
+<!--
+<p align="center">  ────────────── 🛸๋*ੈ✩* 🔭*ੈ₊ ──────────────
+-->
+
+<br>
+
+<p align="center"> ➣➢➤ <a href="#top">Back to Top </a>
+  
 
 #
  
