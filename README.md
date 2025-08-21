@@ -21,7 +21,26 @@ https://github.com/user-attachments/assets/1b17d66f-3fa0-40dc-bfdc-031ca5b703aa
 
  #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
- <br>
+
+ <br><br>
+
+ <!--Confidentiality statement -->
+
+
+### ⚠️ Heads Up 
+
+* Projects and deliverables may be made [publicly available]() whenever possible.
+
+* The course prioritizes [**hands-on practice**]() with real data in consulting scenarios.
+
+* All activities comply with the [**academic and ethical guidelines of PUC-SP**]().
+
+* [**Confidential information**]() from this repository remains private in [private repositories]().
+
+
+
+ <br><br>
+
 
 This project provides an in-depth analysis of **voting patterns** in the 2024 São Paulo municipal elections, with a focus on the **first and second rounds** of mayoral and city council races. It examines key aspects such as **voter behavior**, **shifts between rounds**, and **regional variations in voter turnout**. 
 
@@ -36,7 +55,7 @@ His **expertise** and **unwavering dedication** to teaching played a crucial rol
 
 ### Developed by:
 
-- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+- [Fabiana ⚡️ Campanari](https://github.com/FabianaCampanari)
 - [Pedro 🛰️ Vyctor](https://github.com/ppvyctor)
 
 
