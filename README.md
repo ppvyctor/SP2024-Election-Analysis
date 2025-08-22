@@ -25,22 +25,6 @@ https://github.com/user-attachments/assets/1b17d66f-3fa0-40dc-bfdc-031ca5b703aa
 #### 📺 [Watch in Full HD on YouTube](https://youtu.be/x3A6pHZuOD4)
 
 
-<br><br>
-
-#
-
- <!--Confidentiality statement -->
-
-
-### ⚠️ Heads Up 
-
-* Projects and deliverables may be made [publicly available]() whenever possible.
-
-* The course prioritizes [**hands-on practice**]() with real data in consulting scenarios.
-
-* All activities comply with the [**academic and ethical guidelines of PUC-SP**]().
-
-* [**Confidential information**]() from this repository remains private in [private repositories]().
 
 
 <br><br>
