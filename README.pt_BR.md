@@ -8,19 +8,61 @@
 ## <p align="center"> 📊 Análise de Dados e Visualização: Eleições Municipais de São Paulo - 1º e 2º Turno (2024)
 #### <p align="center"> Uma análise dos padrões de votação nas eleições de São Paulo em 2024, com foco no comportamento do eleitor, abstenção e tendências geográficas.
 
-<br>
 
-📺 [Assista em Full HD no You Tube](https://youtu.be/NvBFw0Z8X0o)
 
-https://github.com/user-attachments/assets/c34557e8-d1a3-4baa-b995-79b91669b3dd
-
-<br>
+<br><br>
 
 
 
  #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
- <br>
+
+<br><br>
+
+
+
+https://github.com/user-attachments/assets/c34557e8-d1a3-4baa-b995-79b91669b3dd
+
+#### 📺 [Assista em Full HD no You Tube](https://youtu.be/NvBFw0Z8X0o)
+
+
+
+
+
+ <!--Declaração de Confidencialidade -->
+
+<br><br>
+
+#
+
+### ⚠️ Avisos Importantes  
+
+* Os projetos e entregáveis serão disponibilizados [publicamente]() apenas quando apropriado e autorizado.  
+
+* O curso enfatiza o [**aprendizado prático**]() por meio da utilização de dados reais em contextos profissionais de consultoria.  
+
+* Todas as atividades e materiais estarão em plena conformidade com as [**diretrizes acadêmicas e éticas da PUC-SP**]().  
+
+* Quaisquer [**informações confidenciais**]() relacionadas a este repositório permanecerão estritamente privadas e armazenadas em [repositórios privados](), em total conformidade com os requisitos de confidencialidade.  
+
+#
+
+<br><br><br>
+
+<!--END-->
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 Este projeto fornece uma análise detalhada dos **padrões de votação** nas eleições municipais de São Paulo de 2024, com foco no **primeiro e segundo turnos** das corridas para prefeito e vereador. Ele examina aspectos-chave como **comportamento do eleitor**, **mudanças entre os turnos** e **variações regionais na taxa de comparecimento dos eleitores**.
 
