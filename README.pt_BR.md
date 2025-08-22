@@ -53,15 +53,6 @@ https://github.com/user-attachments/assets/c34557e8-d1a3-4baa-b995-79b91669b3dd
 
 
 
-
-
-
-
-
-
-
-
-
  
 
 Este projeto fornece uma análise detalhada dos **padrões de votação** nas eleições municipais de São Paulo de 2024, com foco no **primeiro e segundo turnos** das corridas para prefeito e vereador. Ele examina aspectos-chave como **comportamento do eleitor**, **mudanças entre os turnos** e **variações regionais na taxa de comparecimento dos eleitores**.
@@ -76,7 +67,7 @@ Sua **experiência** e **dedicação inabalável** ao ensino desempenharam um pa
 
 ### Developed by:
 
-- [Fabiana ⚡️⚡ Campanari](https://github.com/FabianaCampanari)
+- [Fabiana ⚡️ Campanari](https://github.com/FabianaCampanari)
 - [Pedro 🛰️ Vyctor](https://github.com/ppvyctor)
 
  <br><br>  
