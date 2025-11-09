@@ -6,22 +6,57 @@
 
   <!--  START HEADER  -->
 ## <p align="center">    📊 Data Analysis and Visualization: São Paulo Municipal Elections  - 1st and 2nd Round (2024)
-#### <p align="center">  An analysis of voting patterns in São Paulo's 2024 elections, focusing on voter behavior, absenteeism, and geographic trends.
+#### <p align="center">  [An analysis of voting patterns in São Paulo's 2024 elections](), focusing on voter behavior, absenteeism, and geographic trends.
 
-<br>
 
-📺 [Watch in Full HD on YouTube](https://youtu.be/x3A6pHZuOD4)
 
-<br>
+<br><br>
+
+ #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+
+
+ <br><br>
+
 
 https://github.com/user-attachments/assets/1b17d66f-3fa0-40dc-bfdc-031ca5b703aa
 
  <br>
+ 
+#### 📺 [Watch in Full HD on YouTube](https://youtu.be/x3A6pHZuOD4)
 
 
- #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+ <!--Confidentiality Statement -->
 
- <br>
+
+
+<br><br>
+
+
+> [!IMPORTANT]
+>
+> ⚠️ Heads Up 
+>
+>  * Projects and deliverables will be made [publicly available]() only when appropriate and authorized.  
+>
+>  * The course emphasizes [**hands-on learning**]() through the use of real data in professional consulting contexts. 
+>
+>  * All activities and materials will fully comply with the [**academic and ethical guidelines of PUC-SP**]().  
+>
+>  * Any [**confidential information**]() related to this repository will remain strictly private and stored in [private repositories](), in full compliance with confidentiality requirements.  
+>
+>
+
+#  
+
+<br><br><br>
+
+
+
+
+<!--END-->
+
+
+
 
 This project provides an in-depth analysis of **voting patterns** in the 2024 São Paulo municipal elections, with a focus on the **first and second rounds** of mayoral and city council races. It examines key aspects such as **voter behavior**, **shifts between rounds**, and **regional variations in voter turnout**. 
 
@@ -36,7 +71,7 @@ His **expertise** and **unwavering dedication** to teaching played a crucial rol
 
 ### Developed by:
 
-- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+- [Fabiana ⚡️ Campanari](https://github.com/FabianaCampanari)
 - [Pedro 🛰️ Vyctor](https://github.com/ppvyctor)
 
 
@@ -46,9 +81,18 @@ His **expertise** and **unwavering dedication** to teaching played a crucial rol
 
 ## [Interactive Map]() 
 
-<p align="center">
-To access the full Map, click the Map below:
-</p>
+#### ➢ [Osint](https://www.myosint.training/courses/introduction-to-osint?ref=f7428c)
+
+#### ➢ [Kepler](https://kepler.gl/demo)
+
+#### ➣ [Shapefiles Geolocation Sao Paulo](https://clubedogis.com.br/download-shapefiles-de-sao-paulo/#:~:text=Descubra%20onde%20encontrar%20e%20como%20fazer)
+
+#### ➢ [Big Query](https://console.cloud.google.com/bigquery?p=basedosdados&d=br_bd_diretorios_brasil&t=area_conhecimento&page=table&project=gen-lang-client-0293405067&ws=!1m9!1m4!4m3!1sbasedosdados!2sbr_bd_diretorios_brasil!3scep!1m3!3m2!1sbasedosdados!2sbr_datahackers_state_data&invt=Abt3Qg)
+
+#### ➣ Click and access the [Full Map](https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/scl/fi/j9043tqmx3f6f43mp2oy9/keplergl_b3rkgfo.json?rlkey=go52o1cgn9t3bgh60lhhlju8n&dl=0)
+
+
+
 
 <br>
 
@@ -94,10 +138,17 @@ Access the dataset and explore the interactive dashboard via the Power BI link b
   - [8.5. Dashboard 5: Geographic Distribution of Votes](#85-dashboard-5-geographic-distribution-of-votes)
 - [Conclusion](#conclusion)
 - [Extra Material](#extra-material)
+    - **🇺🇸 Data Analysing Report** [: Go for it 💥](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/77ee8d3319a14c05ae6d3b023e0a4101ec5e2943/Data%20Analysing%20Report/%F0%9F%87%BA%F0%9F%87%B8Data%20Analysing%20Report.pdf)
+    - **🇧🇷 Data Analysing Report** [: Get in on it ⚡](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/9ab39e27ff0f2e8444b7c773ec309986d073ad92/Data%20Analysing%20Report/%F0%9F%87%A7%F0%9F%87%B7Analise%20do%20Dados%20Relatoirio.pdf)
+    - **Power BI Access Link** [: Let’s roll 🛸](https://app.powerbi.com/view?r=eyJrIjoiNTNmY2Y2YzgtODY3Yy00M2ViLWI0NDItMTdiZDJlNTg4Zjk2IiwidCI6IjhlYjI5MjAxLWEyN2QtNDMwMi04NDczLWM5ODJlYjViZTkzNSJ9)
+    - **Power BI File** [: Hop in 🏄](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/8c71e68c34ccfd2c14ff3ecb8d0f7558bcbe109d/Power%20B%20I%20Files/DashBoard.pbix)  
 - [References](#references)
 - [How to Run the Project](#how-to-run-the-project)
 - [Contributing](#contributing)
 - [Our Team](#our-team)
+
+
+
 
 
  ## 1. Introduction
@@ -616,22 +667,36 @@ Make sure your changes do not break existing functionality and that the tests ar
 
 
 
-## 14-  💌  Team and Contacts
+<br><br>
 
-### Core Team:
 
-- **Fabiana 🚀 Campanari**i [GitHub](https://github.com/FabianaCampanari)
-- **Pedro 🛰️  Vyctor** - [Github](https://github.com/ppvyctor)
-  
-### Contact:
+## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
 
-- **Fabiana 🚀 Campanari** - [email me](mailto:fabicampanari@proton.me)
-- **Pedro 🛰️  Vyctor** - [email me](mailto:pedro.vyctor00@gmail.com)
+
+<br>
+
+
+#### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
+
+
+<br>
+
+### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
+
 
 <br><br>
 
-<p align="center"> <a href="#Top">Back to top</a>
+<p align="center">  ────────────── ⊹🔭๋ ──────────────
+
+<!--
+<p align="center">  ────────────── 🛸๋*ੈ✩* 🔭*ੈ₊ ──────────────
+-->
+
+<br>
+
+<p align="center"> ➣➢➤ <a href="#top">Back to Top </a>
+  
 
 #
  
-##### <p align="center">Copyright 2024 Mindful-AI-Assistants. Code released under the  [MIT license.]( https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1106a/LICENSE)
+##### <p align="center">Copyright 20245 Mindful-AI-Assistants. Code released under the  [MIT license.]( https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1106a/LICENSE)

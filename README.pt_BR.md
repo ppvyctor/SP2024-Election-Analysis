@@ -8,19 +8,58 @@
 ## <p align="center"> 📊 Análise de Dados e Visualização: Eleições Municipais de São Paulo - 1º e 2º Turno (2024)
 #### <p align="center"> Uma análise dos padrões de votação nas eleições de São Paulo em 2024, com foco no comportamento do eleitor, abstenção e tendências geográficas.
 
-<br>
 
-📺 [Assista em Full HD no You Tube](https://youtu.be/NvBFw0Z8X0o)
 
-https://github.com/user-attachments/assets/c34557e8-d1a3-4baa-b995-79b91669b3dd
-
-<br>
+<br><br>
 
 
 
  #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
- <br>
+
+<br><br>
+
+
+
+https://github.com/user-attachments/assets/c34557e8-d1a3-4baa-b995-79b91669b3dd
+
+#### 📺 [Assista em Full HD no You Tube](https://youtu.be/NvBFw0Z8X0o)
+
+
+
+
+
+ <!--Declaração de Confidencialidade -->
+
+
+<br><br>
+
+
+> [!IMPORTANT]
+>
+> ⚠️ Heads Up 
+>
+>  * Projects and deliverables will be made [publicly available]() only when appropriate and authorized.  
+>
+>  * The course emphasizes [**hands-on learning**]() through the use of real data in professional consulting contexts. 
+>
+>  * All activities and materials will fully comply with the [**academic and ethical guidelines of PUC-SP**]().  
+>
+>  * Any [**confidential information**]() related to this repository will remain strictly private and stored in [private repositories](), in full compliance with confidentiality requirements.  
+>
+>
+
+#  
+
+<br><br><br>
+
+
+
+<!--END-->
+
+
+
+ 
 
 Este projeto fornece uma análise detalhada dos **padrões de votação** nas eleições municipais de São Paulo de 2024, com foco no **primeiro e segundo turnos** das corridas para prefeito e vereador. Ele examina aspectos-chave como **comportamento do eleitor**, **mudanças entre os turnos** e **variações regionais na taxa de comparecimento dos eleitores**.
 
@@ -32,9 +71,9 @@ Sua **experiência** e **dedicação inabalável** ao ensino desempenharam um pa
 
 <br>
 
-### ### Developed by:
+### Developed by:
 
-- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+- [Fabiana ⚡️ Campanari](https://github.com/FabianaCampanari)
 - [Pedro 🛰️ Vyctor](https://github.com/ppvyctor)
 
  <br><br>  
@@ -92,6 +131,10 @@ A estrutura está bem organizada, mas fiz algumas sugestões para melhorar a flu
   - [8.5. Dashboard 5: Distribuição Geográfica dos Votos](#85-dashboard-5-distribuição-geográfica-dos-votos)
 - [Conclusão](#conclusão)
 - [Material Extra](#material-extra)
+    - **🇺🇸 Data Analysing Report** [: Go for it 💥](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/77ee8d3319a14c05ae6d3b023e0a4101ec5e2943/Data%20Analysing%20Report/%F0%9F%87%BA%F0%9F%87%B8Data%20Analysing%20Report.pdf)
+    - **🇧🇷 Data Analysing Report** [: Get in on it ⚡](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/9ab39e27ff0f2e8444b7c773ec309986d073ad92/Data%20Analysing%20Report/%F0%9F%87%A7%F0%9F%87%B7Analise%20do%20Dados%20Relatoirio.pdf)
+    - **Power BI Access Link** [: Let’s roll 🛸](https://app.powerbi.com/view?r=eyJrIjoiNTNmY2Y2YzgtODY3Yy00M2ViLWI0NDItMTdiZDJlNTg4Zjk2IiwidCI6IjhlYjI5MjAxLWEyN2QtNDMwMi04NDczLWM5ODJlYjViZTkzNSJ9)
+    - **Power BI File** [: Hop in 🏄](https://github.com/Mindful-AI-Assistants/SP2024-Election-Analysis/blob/8c71e68c34ccfd2c14ff3ecb8d0f7558bcbe109d/Power%20B%20I%20Files/DashBoard.pbix)  
 - [Referências](#referências)
 - [Como Executar o Projeto](#como-executar-o-projeto)
 - [Contribuindo](#contribuindo)
@@ -283,9 +326,9 @@ fig.show()
 
 <br>
 
-### 7.5 Most Voted Councilors by Electoral Zone
+### 7.5 Vereadores Mais Votados por Zona Eleitoral.
 
-The analysis revealed candidates like Márcio Chagas (PSOL) and Luana Almeida (PL) performing well in suburban areas.
+A análise revelou que candidatos como Márcio Chagas (PSOL) e Luana Almeida (PL) estão se saindo bem em áreas suburbanas.
 
 ```python
 # Analyzing most voted councilors by electoral zone
@@ -310,9 +353,9 @@ fig.show()
 
 <br>
 
-### 7.6 Most Voted Mayors by Municipality
+### 7.6 Prefeitos Mais Votados por Município.
 
-The municipality-level analysis confirmed Ricardo Nunes' dominance in urban areas and Boulos’ strength in peripheral zones.
+A análise em nível municipal confirmou a dominância de Ricardo Nunes em áreas urbanas e a força de Boulos em áreas periféricas.
 
 ```python
 # Grouping mayors by municipality
@@ -331,9 +374,9 @@ fig.show()
 
 <br>
 
-### 7.7 Most Voted Councilors by Municipality
+### 7.7 Vereadores Mais Votados por Município.
 
-The analysis showed a strong presence of candidates like Eduardo Suplicy (PT) across several municipalities, reflecting broad political support.
+A análise mostrou uma forte presença de candidatos como Eduardo Suplicy (PT) em vários municípios, refletindo amplo apoio político.
 
 ```python
 # Grouping councilors by municipality
@@ -352,9 +395,9 @@ fig.show()
 
 <br>
 
-### 7.8 Distribution of Votes by Political Party
+### 7.8 Distribuição dos Votos por Partido Político
 
-The vote distribution charts confirmed the dominance of MDB and PSOL, with PSOL's support growing in peripheral zones.
+Os gráficos de distribuição de votos confirmaram a dominância do MDB e do PSOL, com o apoio do PSOL crescendo nas zonas periféricas.
 
 ```python
 # Analyzing distribution of votes by party
@@ -373,7 +416,7 @@ fig.show()
 
 <br>
 
-## 8. Interactive Power BI Dashboards: [Click to access the link](https://app.powerbi.com/view?r=eyJrIjoiNTNmY2Y2YzgtODY3Yy00M2ViLWI0NDItMTdiZDJlNTg4Zjk2IiwidCI6IjhlYjI5MjAxLWEyN2QtNDMwMi04NDczLWM5ODJlYjViZTkzNSJ9)
+## 8. Painéis Interativos do Power BI: [Click to access the link](https://app.powerbi.com/view?r=eyJrIjoiNTNmY2Y2YzgtODY3Yy00M2ViLWI0NDItMTdiZDJlNTg4Zjk2IiwidCI6IjhlYjI5MjAxLWEyN2QtNDMwMi04NDczLWM5ODJlYjViZTkzNSJ9)
 
 ### 8.1 Dashboard 1: Geographic Distribution of Votes
 
@@ -604,19 +647,41 @@ Se você quiser contribuir para este projeto, fique à vontade para fazer um *fo
 Certifique-se de que suas alterações não quebrem a funcionalidade existente e que os testes estejam atualizados.
 
 
+<br><br>
 
-## 14- 💌 Equipe e Contatos
 
-### Equipe Principal:
+## 💌 [Let the data flow... Ping Us]()
 
-- **Fabiana 🚀 Campanari** - [GitHub](https://github.com/FabianaCampanari)  
-- **Pedro 🛰️ Vyctor** - [GitHub](https://github.com/ppvyctor)  
 
-### Contato:
+- **Fabiana 🚀 Campanari** - [Shoot me an email](mailto:fabicampanari@proton.me)
+  
+- **Pedro 🛰️ Vyctor** - [Hit me up by email](mailto:pedro.vyctor00@gmail.com)
 
-- **Fabiana 🚀 Campanari** - [me envie um e-mail](mailto:fabicampanari@proton.me)  
-- **Pedro 🛰️ Vyctor** - [me envie um e-mail](mailto:pedro.vyctor00@gmail.com)
 
+
+<br>
+
+
+#### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
+
+
+<br>
+
+### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
+
+
+<br><br>
+
+<p align="center">  ────────────── ⊹🔭๋ ──────────────
+
+<!--
+<p align="center">  ────────────── 🛸๋*ੈ✩* 🔭*ੈ₊ ──────────────
+-->
+
+<br>
+
+<p align="center"> ➣➢➤ <a href="#top">Back to Top </a>
+  
 
 <br><br>
 
@@ -624,5 +689,5 @@ Certifique-se de que suas alterações não quebrem a funcionalidade existente e
 
 #
 
-##### <p align="center">Copyright 2024 Mindful-AI-Assistants. Código liberado sob a [Licença MIT.](https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1106a/LICENSE)
+##### <p align="center">Copyright 2025 Mindful-AI-Assistants. Código liberado sob a [Licença MIT.](https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1106a/LICENSE)
 
